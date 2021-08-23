@@ -1,0 +1,700 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.builderzwarehouse.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.builderzwarehouse.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.builderzwarehouse.com/collections/hardware-1.atom"/>
+  <title>Builderz Warehouse</title>
+  <updated>2020-03-09T08:09:26-07:00</updated>
+  <author>
+    <name>Builderz Warehouse</name>
+  </author>
+  <entry>
+    <id>https://www.builderzwarehouse.com/products/4406768107578</id>
+    <published>2020-03-09T08:09:26-07:00</published>
+    <updated>2020-03-09T08:09:26-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.builderzwarehouse.com/products/cabinet-cupboard-door-hinges-inch-overlay-soft-close-built-in-dampers"/>
+    <title>Cabinet Cupboard Door Hinges, ½ Inch Overlay, Soft Close, Built-in Dampers</title>
+    <s:type>Misc. Hardware</s:type>
+    <s:vendor>Builderz Warehouse</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2449/7105/products/71GAzzd8eZL._SL1500.jpg?v=1583768862"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Builderz Warehouse<br>
+        <strong>Type: </strong>Misc. Hardware<br>
+        <strong>Price: </strong>
+            3.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Good</s:tag>
+    <s:tag>Multifamily</s:tag>
+    <s:variant>
+      <id>https://www.builderzwarehouse.com/products/4406768107578</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.95</s:price>
+      <s:sku>BW-S6D01-012</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.builderzwarehouse.com/products/2362488946746</id>
+    <published>2019-10-25T07:31:10-07:00</published>
+    <updated>2019-10-25T07:31:10-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.builderzwarehouse.com/products/battery-operate-ac-home-room-digital-thermostat"/>
+    <title>Battery Operate AC Home Room Digital Thermostat</title>
+    <s:type>Misc. Hardware</s:type>
+    <s:vendor>Builderz Warehouse</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2449/7105/products/BW-HVAC-T-S701.jpg?v=1569279377"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Builderz Warehouse<br>
+        <strong>Type: </strong>Misc. Hardware<br>
+        <strong>Price: </strong>
+            28.22
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Battery Operate Digital Thermostat For Hydronic Heating/USA Popular Thermostat<br>
+<ul>
+<li>Single stage</li>
+<li>Heating and cooling</li>
+<li>Electric or gas</li>
+<li>4in display w/ blue back-light</li>
+<li>Easy access battery compartment</li>
+<li>Separate B&amp;O terminal</li>
+<li>Room temperature calibration</li>
+<li>Separate heating and cooling swing (cycle-rate) adjustments</li>
+<li>Selectable 5 minute compressor delay protection</li>
+<li>Easy wire color-coded terminal blocks</li>
+<li>Universal sub-base</li>
+<li>Mounts on wall or junction box</li>
+<li>Battery or 24V power. </li>
+</ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Good</s:tag>
+    <s:tag>Multifamily</s:tag>
+    <s:variant>
+      <id>https://www.builderzwarehouse.com/products/2362488946746</id>
+      <title>Default Title</title>
+      <s:price currency="USD">28.22</s:price>
+      <s:sku>BW-HVAC-T-S701</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.builderzwarehouse.com/products/2493486530618</id>
+    <published>2019-09-26T16:06:16-07:00</published>
+    <updated>2019-09-26T16:06:16-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.builderzwarehouse.com/products/2-gang-wall-plate-in-white-10-pack"/>
+    <title>2-Gang Wall Plate in White (10-Pack)</title>
+    <s:type>Lighting Hardware</s:type>
+    <s:vendor>Builderz Warehouse</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2449/7105/products/BW-HWE-SR2.jpg?v=1569278171"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Builderz Warehouse<br>
+        <strong>Type: </strong>Lighting Hardware<br>
+        <strong>Price: </strong>
+            14.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.builderzwarehouse.com/products/2493486530618</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.90</s:price>
+      <s:sku>BW-HWE-SR2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.builderzwarehouse.com/products/2362712522810</id>
+    <published>2019-09-26T15:55:53-07:00</published>
+    <updated>2019-09-26T15:55:53-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.builderzwarehouse.com/products/stainless-steel-faucet-supply-line"/>
+    <title>20&quot; Braided Stainless Steel Faucet Flexible Supply Line (Set of 2)</title>
+    <s:type>Bathroom Hardware</s:type>
+    <s:vendor>Builderz Warehouse</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2449/7105/products/BW-BHSL-0000-PC.jpg?v=1569511845"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Builderz Warehouse<br>
+        <strong>Type: </strong>Bathroom Hardware<br>
+        <strong>Price: </strong>
+            8.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Good</s:tag>
+    <s:tag>Multifamily</s:tag>
+    <s:variant>
+      <id>https://www.builderzwarehouse.com/products/2362712522810</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.98</s:price>
+      <s:sku>BW-BHSL-0000-PC</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.builderzwarehouse.com/products/2362710065210</id>
+    <published>2019-09-26T15:54:27-07:00</published>
+    <updated>2019-09-26T15:54:27-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.builderzwarehouse.com/products/washbasin-bathroom-sink-drain-polished-chrome"/>
+    <title>Kitchen Sink Drain</title>
+    <s:type>Bathroom Hardware</s:type>
+    <s:vendor>Builderz Warehouse</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2449/7105/products/BW-BHBD-0000-PC.jpg?v=1569515073"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Builderz Warehouse<br>
+        <strong>Type: </strong>Bathroom Hardware<br>
+        <strong>Price: </strong>
+            6.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Good</s:tag>
+    <s:tag>Multifamily</s:tag>
+    <s:variant>
+      <id>https://www.builderzwarehouse.com/products/2362710065210</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.95</s:price>
+      <s:sku>BW-BHBD-0000-PC</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.builderzwarehouse.com/products/2362526826554</id>
+    <published>2019-09-26T09:04:03-07:00</published>
+    <updated>2019-09-26T09:04:03-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.builderzwarehouse.com/products/6-ft-plastic-dishwasher-supply-line"/>
+    <title>6 ft. Corrugated Dishwasher Plastic Drain Hose</title>
+    <s:type>Kitchen Hardware</s:type>
+    <s:vendor>Builderz Warehouse</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2449/7105/products/BW-KHSL-92122-72.jpg?v=1569513834"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Builderz Warehouse<br>
+        <strong>Type: </strong>Kitchen Hardware<br>
+        <strong>Price: </strong>
+            10.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Good</s:tag>
+    <s:tag>Multifamily</s:tag>
+    <s:variant>
+      <id>https://www.builderzwarehouse.com/products/2362526826554</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.75</s:price>
+      <s:sku>BW-KHSL-92122-72</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.builderzwarehouse.com/products/2362523385914</id>
+    <published>2019-09-26T08:59:31-07:00</published>
+    <updated>2019-09-26T08:59:31-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.builderzwarehouse.com/products/stainless-steel-universal-dishwasher-supply-line-3-8-in-x-3-8-in-x-60-in"/>
+    <title>Stainless Steel Universal Dishwasher Supply Line 3/8 in. x 3/8 in. x 60 in.</title>
+    <s:type>Kitchen Hardware</s:type>
+    <s:vendor>Builderz Warehouse</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2449/7105/products/BW-KHSL-93104-60.jpg?v=1588030075"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Builderz Warehouse<br>
+        <strong>Type: </strong>Kitchen Hardware<br>
+        <strong>Price: </strong>
+            9.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Good</s:tag>
+    <s:tag>Multifamily</s:tag>
+    <s:variant>
+      <id>https://www.builderzwarehouse.com/products/2362523385914</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku>BW-KHSL-93104-60</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.builderzwarehouse.com/products/2362521878586</id>
+    <published>2019-09-26T08:38:26-07:00</published>
+    <updated>2019-09-26T08:38:26-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.builderzwarehouse.com/products/stainless-steel-supply-line-3-8-in-od-x-7-8-in-bc-x-12-in"/>
+    <title>Stainless Steel Supply Line 3/8 in. OD x 7/8 in. BC x 12 in.</title>
+    <s:type>Bathroom Hardware</s:type>
+    <s:vendor>Builderz Warehouse</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2449/7105/products/BW-BHSL-85111-12.jpg?v=1569512298"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Builderz Warehouse<br>
+        <strong>Type: </strong>Bathroom Hardware<br>
+        <strong>Price: </strong>
+            4.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Good</s:tag>
+    <s:tag>Multifamily</s:tag>
+    <s:variant>
+      <id>https://www.builderzwarehouse.com/products/2362521878586</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.25</s:price>
+      <s:sku>BW-BHSL-85111-12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.builderzwarehouse.com/products/2362701250618</id>
+    <published>2019-09-25T16:28:59-07:00</published>
+    <updated>2019-09-25T16:28:59-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.builderzwarehouse.com/products/straight-type-angle-valve"/>
+    <title>DO NOT USE - Straight Type Angle Valve</title>
+    <s:type>Bathroom Hardware</s:type>
+    <s:vendor>Builderz Warehouse</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2449/7105/products/BW-BHAV-A371-PC.jpg?v=1569454060"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Builderz Warehouse<br>
+        <strong>Type: </strong>Bathroom Hardware<br>
+        <strong>Price: </strong>
+            6.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Coming Soon</s:tag>
+    <s:tag>Good</s:tag>
+    <s:tag>Multifamily</s:tag>
+    <s:tag>noimage</s:tag>
+    <s:tag>Unavailable</s:tag>
+    <s:variant>
+      <id>https://www.builderzwarehouse.com/products/2362701250618</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.95</s:price>
+      <s:sku>BW-BHAV-A371-PC</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.builderzwarehouse.com/products/2362527907898</id>
+    <published>2019-09-25T15:37:36-07:00</published>
+    <updated>2019-09-25T15:37:36-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.builderzwarehouse.com/products/epdm-4-ft-red-and-blue-washing-machine-hose"/>
+    <title>EPDM 4 ft. Red and Blue Washing Machine Hose (2 Pack)</title>
+    <s:type>Misc. Hardware</s:type>
+    <s:vendor>Home Depot</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2449/7105/products/BW-AASL-92123RB-48.jpg?v=1569451049"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Home Depot<br>
+        <strong>Type: </strong>Misc. Hardware<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Coming Soon</s:tag>
+    <s:tag>noimage</s:tag>
+    <s:tag>Unavailable</s:tag>
+    <s:variant>
+      <id>https://www.builderzwarehouse.com/products/2362527907898</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>BW-AASL-92123RB-48</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.builderzwarehouse.com/products/2493492396090</id>
+    <published>2019-09-23T15:53:49-07:00</published>
+    <updated>2019-09-23T15:53:49-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.builderzwarehouse.com/products/15-amp-3-way-paddle-switch-in-white-10-pack"/>
+    <title>15 Amp 3-Way Paddle Switch in White (10-Pack)</title>
+    <s:type>Lighting Hardware</s:type>
+    <s:vendor>Builderz Warehouse</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2449/7105/products/BW-HWE-SSK-1B.jpg?v=1569279392"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Builderz Warehouse<br>
+        <strong>Type: </strong>Lighting Hardware<br>
+        <strong>Price: </strong>
+            19.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.builderzwarehouse.com/products/2493492396090</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku>BW-HWE-SSK-1B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.builderzwarehouse.com/products/2493490823226</id>
+    <published>2019-09-23T15:53:32-07:00</published>
+    <updated>2019-09-23T15:53:32-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.builderzwarehouse.com/products/15-amp-duplex-outlet-in-white-10-pack"/>
+    <title>15 Amp Duplex Outlet in White (10-Pack)</title>
+    <s:type>Lighting Hardware</s:type>
+    <s:vendor>Builderz Warehouse</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2449/7105/products/BW-HWE-SSRE-1TR.jpg?v=1569279376"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Builderz Warehouse<br>
+        <strong>Type: </strong>Lighting Hardware<br>
+        <strong>Price: </strong>
+            14.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.builderzwarehouse.com/products/2493490823226</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.95</s:price>
+      <s:sku>BW-HWE-SSRE-1TR</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.builderzwarehouse.com/products/2493492002874</id>
+    <published>2019-09-23T15:53:31-07:00</published>
+    <updated>2019-09-23T15:53:31-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.builderzwarehouse.com/products/15-amp-single-pole-paddle-switch-in-white-10-pack"/>
+    <title>15 Amp Single-Pole Paddle Switch in White (10-Pack)</title>
+    <s:type>Lighting Hardware</s:type>
+    <s:vendor>Builderz Warehouse</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2449/7105/products/BW-HWE-SSK-1B_e23dfa55-8546-4939-83ab-1b4c67ad3076.jpg?v=1569279374"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Builderz Warehouse<br>
+        <strong>Type: </strong>Lighting Hardware<br>
+        <strong>Price: </strong>
+            12.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.builderzwarehouse.com/products/2493492002874</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.95</s:price>
+      <s:sku>BW-HWE-SSK-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.builderzwarehouse.com/products/2493487939642</id>
+    <published>2019-09-23T15:53:14-07:00</published>
+    <updated>2019-09-23T15:53:14-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.builderzwarehouse.com/products/2-gang-toggle-wall-plate-in-white-10-pack"/>
+    <title>2-Gang Toggle Wall Plate in White (10-Pack)</title>
+    <s:type>Lighting Hardware</s:type>
+    <s:vendor>Builderz Warehouse</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2449/7105/products/BW-HWE-ST-2.jpg?v=1569279358"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Builderz Warehouse<br>
+        <strong>Type: </strong>Lighting Hardware<br>
+        <strong>Price: </strong>
+            6.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.builderzwarehouse.com/products/2493487939642</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.95</s:price>
+      <s:sku>BW-HWE-ST-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.builderzwarehouse.com/products/2493493018682</id>
+    <published>2019-09-23T15:53:12-07:00</published>
+    <updated>2019-09-23T15:53:12-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.builderzwarehouse.com/products/15-amp-single-pole-toggle-switch-in-white-10-pack"/>
+    <title>15 Amp Single-Pole Toggle Switch in White (10-Pack)</title>
+    <s:type>Lighting Hardware</s:type>
+    <s:vendor>Builderz Warehouse</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2449/7105/products/BW-HWE-SSK-2.jpg?v=1569279356"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Builderz Warehouse<br>
+        <strong>Type: </strong>Lighting Hardware<br>
+        <strong>Price: </strong>
+            6.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.builderzwarehouse.com/products/2493493018682</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.75</s:price>
+      <s:sku>BW-HWE-SSK-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.builderzwarehouse.com/products/2493487775802</id>
+    <published>2019-09-23T15:53:11-07:00</published>
+    <updated>2019-09-23T15:53:11-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.builderzwarehouse.com/products/1-gang-toggle-wall-plate-in-white-10-pack"/>
+    <title>1-Gang Toggle Wall Plate in White (10-Pack)</title>
+    <s:type>Lighting Hardware</s:type>
+    <s:vendor>Builderz Warehouse</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2449/7105/products/BW-HWE-ST-1.jpg?v=1569279354"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Builderz Warehouse<br>
+        <strong>Type: </strong>Lighting Hardware<br>
+        <strong>Price: </strong>
+            25.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.builderzwarehouse.com/products/2493487775802</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.50</s:price>
+      <s:sku>BW-HWE-ST-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.builderzwarehouse.com/products/2362603077690</id>
+    <published>2019-04-02T22:19:15-07:00</published>
+    <updated>2019-04-02T22:19:15-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.builderzwarehouse.com/products/5-in-round-metal-cabinet-drawer-pull-in-matte-black"/>
+    <title>5 in. Round Metal Cabinet/Drawer Pull in Matte Black (Set of 10)</title>
+    <s:type>Cabinet Pulls</s:type>
+    <s:vendor>Lowes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2449/7105/products/BW-cabinet-handle-MB_08449e40-5bc8-475a-bdf6-c67ef40654ea.jpg?v=1569277979"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lowes<br>
+        <strong>Type: </strong>Cabinet Pulls<br>
+        <strong>Price: </strong>
+            12.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Coming Soon</s:tag>
+    <s:variant>
+      <id>https://www.builderzwarehouse.com/products/2362603077690</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.95</s:price>
+      <s:sku>BW-HCP-6101-MB</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.builderzwarehouse.com/products/2362539999290</id>
+    <published>2019-04-02T20:14:59-07:00</published>
+    <updated>2019-04-02T20:14:59-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.builderzwarehouse.com/products/5-in-metal-cabinet-drawer-pull-in-stainless-steel"/>
+    <title>5 in. Metal Cabinet/Drawer Pull Brushed Nickel (Set of 10)</title>
+    <s:type>Cabinet Pulls</s:type>
+    <s:vendor>Lowes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2449/7105/products/BW-cabinet-handle-SS_09ad8eda-ac2e-45cc-9302-8007166de61b.jpg?v=1569277977"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lowes<br>
+        <strong>Type: </strong>Cabinet Pulls<br>
+        <strong>Price: </strong>
+            13.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Good</s:tag>
+    <s:tag>Multifamily</s:tag>
+    <s:variant>
+      <id>https://www.builderzwarehouse.com/products/2362539999290</id>
+      <title>Default Title</title>
+      <s:price currency="USD">13.90</s:price>
+      <s:sku>BW-HCP-SS6101-SS</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+</feed>

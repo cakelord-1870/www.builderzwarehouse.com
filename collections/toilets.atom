@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.builderzwarehouse.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.builderzwarehouse.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.builderzwarehouse.com/collections/toilets.atom"/>
+  <title>Builderz Warehouse</title>
+  <updated>2019-11-18T14:50:32-07:00</updated>
+  <author>
+    <name>Builderz Warehouse</name>
+  </author>
+  <entry>
+    <id>https://www.builderzwarehouse.com/products/2362534756410</id>
+    <published>2019-11-18T14:50:32-07:00</published>
+    <updated>2019-11-18T14:50:32-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.builderzwarehouse.com/products/elongated-one-piece-toilet"/>
+    <title>Elongated One-Piece Toilet (White)</title>
+    <s:type>Toilets</s:type>
+    <s:vendor>Home Depot</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Home Depot<br>
+        <strong>Type: </strong>Toilets<br>
+        <strong>Price: </strong>
+            139.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Elongated One-Piece Toilet</p>
+<ul>
+<li>1.28 GPF</li>
+<li>3 in. Flush Valve</li>
+<li>Branded Fittings</li>
+<li>PP Seat Cover</li>
+<li>Wax Ring and Floor Bolts</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Coming Soon</s:tag>
+    <s:tag>noimage</s:tag>
+    <s:variant>
+      <id>https://www.builderzwarehouse.com/products/2362534756410</id>
+      <title>Default Title</title>
+      <s:price currency="USD">139.00</s:price>
+      <s:sku>BW-BTS-A630</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.builderzwarehouse.com/products/13085712203</id>
+    <published>2018-07-24T21:35:56-07:00</published>
+    <updated>2018-07-24T21:35:56-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.builderzwarehouse.com/products/high-efficiency-dual-flush-elongated-all-in-one-toilet-in-white"/>
+    <title>High Efficiency Dual Flush Elongated All-in-One Toilet in White</title>
+    <s:type>Toilets</s:type>
+    <s:vendor>Home Depot</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2449/7105/products/zn2006.jpg?v=1569278246"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Home Depot<br>
+        <strong>Type: </strong>Toilets<br>
+        <strong>Price: </strong>
+            109.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>dual flush toilet</s:tag>
+    <s:tag>efficiency toilet</s:tag>
+    <s:tag>one-piece toilets</s:tag>
+    <s:tag>toilets</s:tag>
+    <s:tag>white toilet</s:tag>
+    <s:tag>woo_import_1</s:tag>
+    <s:variant>
+      <id>https://www.builderzwarehouse.com/products/13085712203</id>
+      <title>Default Title</title>
+      <s:price currency="USD">109.95</s:price>
+      <s:sku>BW-BTS-L02204</s:sku>
+      <s:grams>39009</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.builderzwarehouse.com/products/539376222266</id>
+    <published>2017-10-24T22:40:15-07:00</published>
+    <updated>2017-10-24T22:40:15-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.builderzwarehouse.com/products/sunny-siphonic-one-piece-toilet-in-white"/>
+    <title>Sunny Siphonic One Piece Toilet in White</title>
+    <s:type>Toilets</s:type>
+    <s:vendor>Home Depot</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2449/7105/products/T-M2620.jpg?v=1569278551"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Home Depot<br>
+        <strong>Type: </strong>Toilets<br>
+        <strong>Price: </strong>
+            120.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>one-piece toilets</s:tag>
+    <s:tag>toilets</s:tag>
+    <s:tag>white toilet</s:tag>
+    <s:tag>woo_import_1</s:tag>
+    <s:variant>
+      <id>https://www.builderzwarehouse.com/products/539376222266</id>
+      <title>Default Title</title>
+      <s:price currency="USD">120.95</s:price>
+      <s:sku>BW-BTS-TM2620</s:sku>
+      <s:grams>36741</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.builderzwarehouse.com/products/539369701434</id>
+    <published>2017-10-24T22:40:15-07:00</published>
+    <updated>2017-10-24T22:40:15-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.builderzwarehouse.com/products/fran-siphonic-one-piece-toilet-in-white"/>
+    <title>Fran Siphonic One Piece Toilet in White</title>
+    <s:type>Toilets</s:type>
+    <s:vendor>Home Depot</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2449/7105/products/T-M2057.jpg?v=1569278548"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Home Depot<br>
+        <strong>Type: </strong>Toilets<br>
+        <strong>Price: </strong>
+            129.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>one-piece toilets</s:tag>
+    <s:tag>toilets</s:tag>
+    <s:tag>white toilet</s:tag>
+    <s:tag>woo_import_1</s:tag>
+    <s:variant>
+      <id>https://www.builderzwarehouse.com/products/539369701434</id>
+      <title>Default Title</title>
+      <s:price currency="USD">129.95</s:price>
+      <s:sku>BW-BTS-TM2057</s:sku>
+      <s:grams>36741</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.builderzwarehouse.com/products/539344404538</id>
+    <published>2017-10-24T22:40:15-07:00</published>
+    <updated>2017-10-24T22:40:15-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.builderzwarehouse.com/products/washdown-two-piece-toilet-in-white"/>
+    <title>Washdown Two Piece Toilet in White</title>
+    <s:type>Toilets</s:type>
+    <s:vendor>Home Depot</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2449/7105/products/T-HE03P.jpg?v=1569278546"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Home Depot<br>
+        <strong>Type: </strong>Toilets<br>
+        <strong>Price: </strong>
+            84.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>toilets</s:tag>
+    <s:tag>two-piece toilets</s:tag>
+    <s:tag>white toilet</s:tag>
+    <s:tag>woo_import_1</s:tag>
+    <s:variant>
+      <id>https://www.builderzwarehouse.com/products/539344404538</id>
+      <title>Default Title</title>
+      <s:price currency="USD">84.95</s:price>
+      <s:sku>BW-BTS-THE03P</s:sku>
+      <s:grams>36741</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.builderzwarehouse.com/products/13132360843</id>
+    <published>2017-10-24T22:40:15-07:00</published>
+    <updated>2017-10-24T22:40:15-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.builderzwarehouse.com/products/basic-two-piece-toilet-in-white"/>
+    <title>Basic Two Piece Toilet in White H80</title>
+    <s:type>Toilets</s:type>
+    <s:vendor>Home Depot</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2449/7105/products/LO-2204.png?v=1569278300"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Home Depot<br>
+        <strong>Type: </strong>Toilets<br>
+        <strong>Price: </strong>
+            80.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Good</s:tag>
+    <s:tag>Multifamily</s:tag>
+    <s:tag>toilets</s:tag>
+    <s:tag>two-piece toilets</s:tag>
+    <s:tag>white toilet</s:tag>
+    <s:tag>woo_import_1</s:tag>
+    <s:variant>
+      <id>https://www.builderzwarehouse.com/products/13132360843</id>
+      <title>Default Title</title>
+      <s:price currency="USD">80.95</s:price>
+      <s:sku>BW-20190313202</s:sku>
+      <s:grams>36741</s:grams>
+    </s:variant>
+  </entry>
+</feed>

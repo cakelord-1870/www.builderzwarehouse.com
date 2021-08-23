@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.builderzwarehouse.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.builderzwarehouse.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.builderzwarehouse.com/collections/misc-hardware.atom"/>
+  <title>Builderz Warehouse</title>
+  <updated>2020-03-09T08:09:26-07:00</updated>
+  <author>
+    <name>Builderz Warehouse</name>
+  </author>
+  <entry>
+    <id>https://www.builderzwarehouse.com/products/4406768107578</id>
+    <published>2020-03-09T08:09:26-07:00</published>
+    <updated>2020-03-09T08:09:26-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.builderzwarehouse.com/products/cabinet-cupboard-door-hinges-inch-overlay-soft-close-built-in-dampers"/>
+    <title>Cabinet Cupboard Door Hinges, ½ Inch Overlay, Soft Close, Built-in Dampers</title>
+    <s:type>Misc. Hardware</s:type>
+    <s:vendor>Builderz Warehouse</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2449/7105/products/71GAzzd8eZL._SL1500.jpg?v=1583768862"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Builderz Warehouse<br>
+        <strong>Type: </strong>Misc. Hardware<br>
+        <strong>Price: </strong>
+            3.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Good</s:tag>
+    <s:tag>Multifamily</s:tag>
+    <s:variant>
+      <id>https://www.builderzwarehouse.com/products/4406768107578</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.95</s:price>
+      <s:sku>BW-S6D01-012</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.builderzwarehouse.com/products/2362488946746</id>
+    <published>2019-10-25T07:31:10-07:00</published>
+    <updated>2019-10-25T07:31:10-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.builderzwarehouse.com/products/battery-operate-ac-home-room-digital-thermostat"/>
+    <title>Battery Operate AC Home Room Digital Thermostat</title>
+    <s:type>Misc. Hardware</s:type>
+    <s:vendor>Builderz Warehouse</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2449/7105/products/BW-HVAC-T-S701.jpg?v=1569279377"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Builderz Warehouse<br>
+        <strong>Type: </strong>Misc. Hardware<br>
+        <strong>Price: </strong>
+            28.22
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Battery Operate Digital Thermostat For Hydronic Heating/USA Popular Thermostat<br>
+<ul>
+<li>Single stage</li>
+<li>Heating and cooling</li>
+<li>Electric or gas</li>
+<li>4in display w/ blue back-light</li>
+<li>Easy access battery compartment</li>
+<li>Separate B&amp;O terminal</li>
+<li>Room temperature calibration</li>
+<li>Separate heating and cooling swing (cycle-rate) adjustments</li>
+<li>Selectable 5 minute compressor delay protection</li>
+<li>Easy wire color-coded terminal blocks</li>
+<li>Universal sub-base</li>
+<li>Mounts on wall or junction box</li>
+<li>Battery or 24V power. </li>
+</ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Good</s:tag>
+    <s:tag>Multifamily</s:tag>
+    <s:variant>
+      <id>https://www.builderzwarehouse.com/products/2362488946746</id>
+      <title>Default Title</title>
+      <s:price currency="USD">28.22</s:price>
+      <s:sku>BW-HVAC-T-S701</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.builderzwarehouse.com/products/2362527907898</id>
+    <published>2019-09-25T15:37:36-07:00</published>
+    <updated>2019-09-25T15:37:36-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.builderzwarehouse.com/products/epdm-4-ft-red-and-blue-washing-machine-hose"/>
+    <title>EPDM 4 ft. Red and Blue Washing Machine Hose (2 Pack)</title>
+    <s:type>Misc. Hardware</s:type>
+    <s:vendor>Home Depot</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2449/7105/products/BW-AASL-92123RB-48.jpg?v=1569451049"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Home Depot<br>
+        <strong>Type: </strong>Misc. Hardware<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Coming Soon</s:tag>
+    <s:tag>noimage</s:tag>
+    <s:tag>Unavailable</s:tag>
+    <s:variant>
+      <id>https://www.builderzwarehouse.com/products/2362527907898</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>BW-AASL-92123RB-48</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

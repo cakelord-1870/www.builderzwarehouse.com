@@ -1,0 +1,808 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.builderzwarehouse.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.builderzwarehouse.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.builderzwarehouse.com/collections/bathroom-accessories-1.atom"/>
+  <title>Builderz Warehouse</title>
+  <updated>2020-02-17T11:17:01-07:00</updated>
+  <author>
+    <name>Builderz Warehouse</name>
+  </author>
+  <entry>
+    <id>https://www.builderzwarehouse.com/products/4399627796538</id>
+    <published>2020-02-17T11:17:01-07:00</published>
+    <updated>2020-02-17T11:17:01-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.builderzwarehouse.com/products/4-in-single-hole-faucet-cover-brushed-nickel-1"/>
+    <title>4 in. Single-hole Faucet Cover (Brushed Nickel)</title>
+    <s:type>Faucet Cover</s:type>
+    <s:vendor>Home Depot</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2449/7105/products/4bn_b91472b6-0e9d-453a-9cc0-61e97d6aaa33.jpg?v=1581968199"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Home Depot<br>
+        <strong>Type: </strong>Faucet Cover<br>
+        <strong>Price: </strong>
+            5.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Good</s:tag>
+    <s:tag>Multifamily</s:tag>
+    <s:variant>
+      <id>https://www.builderzwarehouse.com/products/4399627796538</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.50</s:price>
+      <s:sku>BW-SD01</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.builderzwarehouse.com/products/4373812314170</id>
+    <published>2019-12-18T15:54:28-07:00</published>
+    <updated>2019-12-18T15:54:28-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.builderzwarehouse.com/products/5-piece-bath-accessory-set-in-polished-chrome"/>
+    <title>5-Piece Bath Accessory Set in Polished Chrome</title>
+    <s:type>Bathroom Accessories Sets</s:type>
+    <s:vendor>Home Depot</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2449/7105/products/BW-BABS-K102816-P00082-PC.jpg?v=1576709961"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Home Depot<br>
+        <strong>Type: </strong>Bathroom Accessories Sets<br>
+        <strong>Price: </strong>
+            17.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Sleek, simple and stylish, this Classic 5-Piece Bath Accessory Kit features a 26" towel bar, a tissue paper holder, towel hook, robe hook, and a towel ring for a complete bath set. Made of zinc alloy brilliantly finished in brushed nickel or polished chrome, this set comes complete with mounting hardware.</span></p>
+<!-- split --></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bath accessory set</s:tag>
+    <s:tag>chrome towel bar</s:tag>
+    <s:tag>chrome towel rail</s:tag>
+    <s:tag>robe hook</s:tag>
+    <s:tag>Towel ring</s:tag>
+    <s:tag>woo_import_1</s:tag>
+    <s:variant>
+      <id>https://www.builderzwarehouse.com/products/4373812314170</id>
+      <title>Default Title</title>
+      <s:price currency="USD">17.95</s:price>
+      <s:sku>BW-BABS-K102816-P00082-PC</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.builderzwarehouse.com/products/4373792489530</id>
+    <published>2019-12-18T14:41:06-07:00</published>
+    <updated>2019-12-18T14:41:06-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.builderzwarehouse.com/products/4-piece-bath-accessory-set-brushed-nickel-or-polished-chrome"/>
+    <title>4-Piece Bath Accessory Set (Brushed Nickel or Polished Chrome)</title>
+    <s:type>Bathroom Accessories Sets</s:type>
+    <s:vendor>Home Depot</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2449/7105/products/BW-BABS-K102816-P00066-BN.jpg?v=1576705633"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Home Depot<br>
+        <strong>Type: </strong>Bathroom Accessories Sets<br>
+        <strong>Price: </strong>
+            18.95 - 19.95
+            <a href="https://www.builderzwarehouse.com/products/4-piece-bath-accessory-set-brushed-nickel-or-polished-chrome">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Sleek, simple and stylish, this Classic 4-Piece Bath Accessory Kit features a 26" towel bar, a tissue paper holder, towel hook, and a towel ring for a complete bath set. Made of zinc alloy brilliantly finished in brushed nickel or polished chrome, this set comes complete with mounting hardware.</span></p>
+<!-- split --></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bath accessory set</s:tag>
+    <s:tag>chrome towel bar</s:tag>
+    <s:tag>chrome towel rail</s:tag>
+    <s:tag>Towel ring</s:tag>
+    <s:tag>woo_import_1</s:tag>
+    <s:variant>
+      <id>https://www.builderzwarehouse.com/products/4373792489530</id>
+      <title>Brushed Nickel</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku>BW-BABS-K102816-P00066-BN</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.builderzwarehouse.com/products/4373792489530</id>
+      <title>Polished Chrome</title>
+      <s:price currency="USD">18.95</s:price>
+      <s:sku>BW-BABS-K102816-P00066-PC</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.builderzwarehouse.com/products/4267245830202</id>
+    <published>2019-10-16T14:00:21-07:00</published>
+    <updated>2019-10-16T14:00:21-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.builderzwarehouse.com/products/modern-3-piece-bath-accessory-set-brushed-nickel"/>
+    <title>Modern 3-Piece Bath Accessory Set (Brushed Nickel, Polished Chrome or Matte Black)</title>
+    <s:type>Bathroom Accessories Sets</s:type>
+    <s:vendor>Home Depot</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2449/7105/products/BW-11700-PC_738e10a7-6210-412d-a78f-50d35b4f4e01.jpg?v=1571259622"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Home Depot<br>
+        <strong>Type: </strong>Bathroom Accessories Sets<br>
+        <strong>Price: </strong>
+            21.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bath accessory set</s:tag>
+    <s:tag>Towel ring</s:tag>
+    <s:tag>woo_import_1</s:tag>
+    <s:variant>
+      <id>https://www.builderzwarehouse.com/products/4267245830202</id>
+      <title>Brushed Nickel</title>
+      <s:price currency="USD">21.95</s:price>
+      <s:sku>BW-BABS-11700-BN</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.builderzwarehouse.com/products/4267245830202</id>
+      <title>Polished Chrome</title>
+      <s:price currency="USD">21.95</s:price>
+      <s:sku>BW-BABS-11700-PC</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.builderzwarehouse.com/products/4267245830202</id>
+      <title>Matte Black</title>
+      <s:price currency="USD">21.95</s:price>
+      <s:sku>BW-BABS-11700-MB</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.builderzwarehouse.com/products/2362611761210</id>
+    <published>2019-09-25T10:59:49-07:00</published>
+    <updated>2019-09-25T10:59:49-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.builderzwarehouse.com/products/towel-ring-1"/>
+    <title>Towel Ring (Brushed Nickel)</title>
+    <s:type>Towel Ring</s:type>
+    <s:vendor>Home Depot</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2449/7105/products/KD-7303_f19d87c0-d491-4853-a1fd-d2ec40b6561b.jpg?v=1569278855"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Home Depot<br>
+        <strong>Type: </strong>Towel Ring<br>
+        <strong>Price: </strong>
+            6.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brushed nickel towel</s:tag>
+    <s:tag>Good</s:tag>
+    <s:tag>Multifamily</s:tag>
+    <s:tag>towel holder</s:tag>
+    <s:tag>Towel ring</s:tag>
+    <s:tag>woo_import_1</s:tag>
+    <s:variant>
+      <id>https://www.builderzwarehouse.com/products/2362611761210</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.95</s:price>
+      <s:sku>BW-50732-BN</s:sku>
+      <s:grams>299</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.builderzwarehouse.com/products/2362609434682</id>
+    <published>2019-09-25T10:54:57-07:00</published>
+    <updated>2019-09-25T10:54:57-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.builderzwarehouse.com/products/24-single-towel-bar-brushed-nickel-1"/>
+    <title>24&quot; Single Towel Bar (Brushed Nickel)</title>
+    <s:type>Towel Bar</s:type>
+    <s:vendor>Home Depot</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2449/7105/products/KD-7301_d415873b-3a89-4119-959d-bddf456c272c.jpg?v=1569278851"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Home Depot<br>
+        <strong>Type: </strong>Towel Bar<br>
+        <strong>Price: </strong>
+            14.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Good</s:tag>
+    <s:tag>Multifamily</s:tag>
+    <s:tag>towel bar</s:tag>
+    <s:tag>towel rail</s:tag>
+    <s:variant>
+      <id>https://www.builderzwarehouse.com/products/2362609434682</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.95</s:price>
+      <s:sku>BW-50724-BN</s:sku>
+      <s:grams>494</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.builderzwarehouse.com/products/1516362661946</id>
+    <published>2017-10-24T22:42:36-07:00</published>
+    <updated>2017-10-24T22:42:36-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.builderzwarehouse.com/products/8-in-single-hole-faucet-cover-brushed-nickel"/>
+    <title>8 in. Single-hole Faucet Cover (Brushed Nickel)</title>
+    <s:type>Faucet Cover</s:type>
+    <s:vendor>Home Depot</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2449/7105/products/BW-KD-0108-BN_1f318978-717d-4844-bf0c-5b2a37865fb4.jpg?v=1569278728"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Home Depot<br>
+        <strong>Type: </strong>Faucet Cover<br>
+        <strong>Price: </strong>
+            5.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>woo_import_1</s:tag>
+    <s:variant>
+      <id>https://www.builderzwarehouse.com/products/1516362661946</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.95</s:price>
+      <s:sku>BW-BAFC-KD0108-BN</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.builderzwarehouse.com/products/13132406155</id>
+    <published>2017-10-24T22:42:36-07:00</published>
+    <updated>2017-10-24T22:42:36-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.builderzwarehouse.com/products/8in-single-hole-faucet-cover-polished-chrome"/>
+    <title>8 in. Single-hole Faucet Cover (Polished Chrome)</title>
+    <s:type>Faucet Cover</s:type>
+    <s:vendor>Home Depot</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2449/7105/products/BW-KD0108-PC_f8c23137-de86-4dbc-a9bc-3cf08e8584c5.jpg?v=1569277538"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Home Depot<br>
+        <strong>Type: </strong>Faucet Cover<br>
+        <strong>Price: </strong>
+            4.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>woo_import_1</s:tag>
+    <s:variant>
+      <id>https://www.builderzwarehouse.com/products/13132406155</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.95</s:price>
+      <s:sku>BW-BAFC-KD0108-PC</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.builderzwarehouse.com/products/13132400523</id>
+    <published>2017-10-24T22:42:16-07:00</published>
+    <updated>2017-10-24T22:42:16-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.builderzwarehouse.com/products/bathroom-towel-l-hook-polished-chrome"/>
+    <title>Bathroom Tissue &quot;L&quot; Hook (Polished Chrome)</title>
+    <s:type>Toilet Paper Hook</s:type>
+    <s:vendor>Home Depot</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2449/7105/products/BW-KD-08116.jpg?v=1569278519"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Home Depot<br>
+        <strong>Type: </strong>Toilet Paper Hook<br>
+        <strong>Price: </strong>
+            7.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bathroom tissue hook</s:tag>
+    <s:tag>chrome hook for bathroom tissue</s:tag>
+    <s:tag>chrome hook for toilet paper</s:tag>
+    <s:tag>toilet paper hook</s:tag>
+    <s:tag>woo_import_1</s:tag>
+    <s:variant>
+      <id>https://www.builderzwarehouse.com/products/13132400523</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.95</s:price>
+      <s:sku>BW-BATLH-08116-PC</s:sku>
+      <s:grams>299</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.builderzwarehouse.com/products/1503880642618</id>
+    <published>2017-10-24T22:41:12-07:00</published>
+    <updated>2017-10-24T22:41:12-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.builderzwarehouse.com/products/4-in-single-hole-faucet-cover-polished-chrome"/>
+    <title>4 in. Single-hole Faucet Cover (Polished Chrome)</title>
+    <s:type>Faucet Cover</s:type>
+    <s:vendor>Home Depot</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2449/7105/products/BW-KD0104-PC_d8ded070-0fac-49fe-85f7-fb802a540d3e.jpg?v=1569277751"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Home Depot<br>
+        <strong>Type: </strong>Faucet Cover<br>
+        <strong>Price: </strong>
+            3.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.builderzwarehouse.com/products/1503880642618</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.95</s:price>
+      <s:sku>BW-BAFC-KD0104-PC</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.builderzwarehouse.com/products/13132366603</id>
+    <published>2017-10-24T22:40:35-07:00</published>
+    <updated>2017-10-24T22:40:35-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.builderzwarehouse.com/products/4-in-shower-floor-drain-polished-chrome-or-brushed-nickel"/>
+    <title>4 in. Shower Floor Drain (Polished Chrome or Brushed Nickel)</title>
+    <s:type>Bathroom Accessorires</s:type>
+    <s:vendor>Builders Warehouse AZ</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2449/7105/products/2821.jpg?v=1569277315"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Builders Warehouse AZ<br>
+        <strong>Type: </strong>Bathroom Accessorires<br>
+        <strong>Price: </strong>
+            7.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chrome shower drain</s:tag>
+    <s:tag>chrome shower floor drain</s:tag>
+    <s:tag>nickel shower drain</s:tag>
+    <s:tag>Shower drain</s:tag>
+    <s:tag>shower floor drain</s:tag>
+    <s:tag>woo_import_1</s:tag>
+    <s:variant>
+      <id>https://www.builderzwarehouse.com/products/13132366603</id>
+      <title>Brushed Nickel</title>
+      <s:price currency="USD">7.95</s:price>
+      <s:sku>BW-2814</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.builderzwarehouse.com/products/13132366091</id>
+    <published>2017-10-24T22:40:33-07:00</published>
+    <updated>2017-10-24T22:40:33-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.builderzwarehouse.com/products/bathroom-towel-l-hook-in-polished-chrome"/>
+    <title>Large Bathroom Towel &quot;L&quot; Hook</title>
+    <s:type>Towel Hook</s:type>
+    <s:vendor>Home Depot</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2449/7105/products/original-22.jpg?v=1569278348"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Home Depot<br>
+        <strong>Type: </strong>Towel Hook<br>
+        <strong>Price: </strong>
+            8.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bathroom tissue hook</s:tag>
+    <s:tag>chrome hook for bathroom tissue</s:tag>
+    <s:tag>chrome hook for toilet paper</s:tag>
+    <s:tag>toilet paper hook</s:tag>
+    <s:tag>woo_import_1</s:tag>
+    <s:variant>
+      <id>https://www.builderzwarehouse.com/products/13132366091</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>BW-BATLH-08126-PC</s:sku>
+      <s:grams>299</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.builderzwarehouse.com/products/2212188553274</id>
+    <published>2017-10-24T22:40:32-07:00</published>
+    <updated>2017-10-24T22:40:32-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.builderzwarehouse.com/products/3-piece-bath-accessory-set-brushed-nickel-bw-2300a-bn"/>
+    <title>3-Piece Bath Accessory Set (Brushed Nickel, Polished Chrome or Matte Black)</title>
+    <s:type>Bathroom Accessories Sets</s:type>
+    <s:vendor>Home Depot</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2449/7105/products/BW-2300A.jpg?v=1569277905"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Home Depot<br>
+        <strong>Type: </strong>Bathroom Accessories Sets<br>
+        <strong>Price: </strong>
+            21.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Sleek, simple and stylish, this Classic 3-Piece Bath Accessory Kit features a 24" towel bar, a tissue paper holder, and a towel ring for a complete bath set. Made of zinc alloy brilliantly finished in brushed nickel, this set comes complete with mounting hardware.</span></p>
+<!-- split --></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bath accessory set</s:tag>
+    <s:tag>chrome towel bar</s:tag>
+    <s:tag>chrome towel rail</s:tag>
+    <s:tag>Towel ring</s:tag>
+    <s:tag>woo_import_1</s:tag>
+    <s:variant>
+      <id>https://www.builderzwarehouse.com/products/2212188553274</id>
+      <title>Brushed Nickel</title>
+      <s:price currency="USD">21.95</s:price>
+      <s:sku>BW-BABS-2300B-BN</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.builderzwarehouse.com/products/2212188553274</id>
+      <title>Polished Chrome</title>
+      <s:price currency="USD">21.95</s:price>
+      <s:sku>BW-BABS-2300B-PC</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.builderzwarehouse.com/products/2212188553274</id>
+      <title>Matte Black</title>
+      <s:price currency="USD">21.95</s:price>
+      <s:sku>BW-BABS-2300B-MB</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.builderzwarehouse.com/products/13132365835</id>
+    <published>2017-10-24T22:40:32-07:00</published>
+    <updated>2017-10-24T22:40:32-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.builderzwarehouse.com/products/towel-t-hook-1"/>
+    <title>Towel &quot;T&quot; Hook</title>
+    <s:type>Towel Hook</s:type>
+    <s:vendor>Home Depot</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2449/7105/products/08125.jpg?v=1569278344"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Home Depot<br>
+        <strong>Type: </strong>Towel Hook<br>
+        <strong>Price: </strong>
+            4.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chrome towel hook</s:tag>
+    <s:tag>chrome towel peg</s:tag>
+    <s:tag>t hook</s:tag>
+    <s:tag>towel hook</s:tag>
+    <s:tag>towel peg</s:tag>
+    <s:tag>woo_import_1</s:tag>
+    <s:variant>
+      <id>https://www.builderzwarehouse.com/products/13132365835</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.95</s:price>
+      <s:sku>BW-BATLH-8125</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.builderzwarehouse.com/products/13132365451</id>
+    <published>2017-10-24T22:40:31-07:00</published>
+    <updated>2017-10-24T22:40:31-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.builderzwarehouse.com/products/24-single-towel-bar-polished-chrome"/>
+    <title>24&quot; Single Towel Bar (Polished Chrome)</title>
+    <s:type>Towel Bar</s:type>
+    <s:vendor>Home Depot</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2449/7105/products/bw-tw76.png?v=1569278341"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Home Depot<br>
+        <strong>Type: </strong>Towel Bar<br>
+        <strong>Price: </strong>
+            9.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chrome towel bar</s:tag>
+    <s:tag>chrome towel rail</s:tag>
+    <s:tag>towel bar</s:tag>
+    <s:tag>towel rail</s:tag>
+    <s:tag>woo_import_1</s:tag>
+    <s:variant>
+      <id>https://www.builderzwarehouse.com/products/13132365451</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku>BW-08112-PC</s:sku>
+      <s:grams>494</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.builderzwarehouse.com/products/13132365131</id>
+    <published>2017-10-24T22:40:30-07:00</published>
+    <updated>2017-10-24T22:40:30-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.builderzwarehouse.com/products/basic-towel-hook"/>
+    <title>Basic Towel Hook</title>
+    <s:type>Towel Hook</s:type>
+    <s:vendor>Home Depot</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2449/7105/products/KD-7304-_C2_A6_C2_A6.jpg?v=1569278338"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Home Depot<br>
+        <strong>Type: </strong>Towel Hook<br>
+        <strong>Price: </strong>
+            5.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brushed nickel towel hook</s:tag>
+    <s:tag>towel hook</s:tag>
+    <s:tag>towel peg</s:tag>
+    <s:tag>woo_import_1</s:tag>
+    <s:variant>
+      <id>https://www.builderzwarehouse.com/products/13132365131</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.95</s:price>
+      <s:sku>BW-BATLH-KD7304</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.builderzwarehouse.com/products/13132364619</id>
+    <published>2017-10-24T22:40:28-07:00</published>
+    <updated>2017-10-24T22:40:28-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.builderzwarehouse.com/products/bathroom-tissue-l-hook-brushed-nickel"/>
+    <title>Bathroom Tissue &quot;L&quot; Hook (Brushed Nickel)</title>
+    <s:type>Toilet Paper Hook</s:type>
+    <s:vendor>Home Depot</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2449/7105/products/BW-KD-7303.jpg?v=1569278335"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Home Depot<br>
+        <strong>Type: </strong>Toilet Paper Hook<br>
+        <strong>Price: </strong>
+            4.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bathroom tissue hook</s:tag>
+    <s:tag>toilet paper hook</s:tag>
+    <s:tag>woo_import_1</s:tag>
+    <s:variant>
+      <id>https://www.builderzwarehouse.com/products/13132364619</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.95</s:price>
+      <s:sku>BW-BATPH-KD7307-BN</s:sku>
+      <s:grams>349</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.builderzwarehouse.com/products/13132364235</id>
+    <published>2017-10-24T22:40:27-07:00</published>
+    <updated>2017-10-24T22:40:27-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.builderzwarehouse.com/products/towel-ring"/>
+    <title>Towel Ring</title>
+    <s:type>Towel Ring</s:type>
+    <s:vendor>Home Depot</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2449/7105/products/KD-7303.jpg?v=1569278332"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Home Depot<br>
+        <strong>Type: </strong>Towel Ring<br>
+        <strong>Price: </strong>
+            5.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brushed nickel towel</s:tag>
+    <s:tag>towel holder</s:tag>
+    <s:tag>Towel ring</s:tag>
+    <s:tag>woo_import_1</s:tag>
+    <s:variant>
+      <id>https://www.builderzwarehouse.com/products/13132364235</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.95</s:price>
+      <s:sku>BW-BATLR-KD7303</s:sku>
+      <s:grams>299</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.builderzwarehouse.com/products/13132364043</id>
+    <published>2017-10-24T22:40:26-07:00</published>
+    <updated>2017-10-24T22:40:26-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.builderzwarehouse.com/products/24-single-towel-bar-brushed-nickel"/>
+    <title>24&quot; Single Towel Bar (Brushed Nickel)</title>
+    <s:type>Towel Bar</s:type>
+    <s:vendor>Home Depot</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2449/7105/products/KD-7301.jpg?v=1569278329"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Home Depot<br>
+        <strong>Type: </strong>Towel Bar<br>
+        <strong>Price: </strong>
+            7.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>towel bar</s:tag>
+    <s:tag>towel rail</s:tag>
+    <s:tag>woo_import_1</s:tag>
+    <s:variant>
+      <id>https://www.builderzwarehouse.com/products/13132364043</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.95</s:price>
+      <s:sku>BW-BATB-KD7301-BN</s:sku>
+      <s:grams>494</s:grams>
+    </s:variant>
+  </entry>
+</feed>

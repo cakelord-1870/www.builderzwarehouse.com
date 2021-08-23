@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.builderzwarehouse.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.builderzwarehouse.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.builderzwarehouse.com/collections/door-hardware-sets.atom"/>
+  <title>Builderz Warehouse</title>
+  <updated>2018-07-30T09:35:39-07:00</updated>
+  <author>
+    <name>Builderz Warehouse</name>
+  </author>
+  <entry>
+    <id>https://www.builderzwarehouse.com/products/1778552668218</id>
+    <published>2018-07-30T09:35:39-07:00</published>
+    <updated>2018-07-30T09:35:39-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.builderzwarehouse.com/products/sliding-barn-door-hardware-in-matte-black"/>
+    <title>Sliding Barn Door Hardware Set (Matte Black)</title>
+    <s:type>Door Hardware Set</s:type>
+    <s:vendor>Home Depot</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2449/7105/products/BW-JHKSK09B-MB.jpg?v=1569277856"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Home Depot<br>
+        <strong>Type: </strong>Door Hardware Set<br>
+        <strong>Price: </strong>
+            82.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This Sliding Barn Door Hardware Set in Matte Black includes everything that you need to hang one door up to 200 lbs and 36 " in width. Ideal for closets, interior doors and room dividers. The high density plastic wheels provide smooth, quiet operation and a high quality feel. *Barn door panel sold separately.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>barn door hardware</s:tag>
+    <s:tag>Door</s:tag>
+    <s:tag>Door Slab</s:tag>
+    <s:tag>woo_import_1</s:tag>
+    <s:variant>
+      <id>https://www.builderzwarehouse.com/products/1778552668218</id>
+      <title>Default Title</title>
+      <s:price currency="USD">82.95</s:price>
+      <s:sku>BW-JHKSK09B-MB</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+</feed>

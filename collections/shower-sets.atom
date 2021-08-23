@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.builderzwarehouse.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.builderzwarehouse.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.builderzwarehouse.com/collections/shower-sets.atom"/>
+  <title>Builderz Warehouse</title>
+  <updated>2019-12-26T07:56:41-07:00</updated>
+  <author>
+    <name>Builderz Warehouse</name>
+  </author>
+  <entry>
+    <id>https://www.builderzwarehouse.com/products/2246287589434</id>
+    <published>2019-12-26T07:56:41-07:00</published>
+    <updated>2019-12-26T07:56:41-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.builderzwarehouse.com/products/copy-of-3-handle-wall-mounted-round-head-shower-tub-faucet-set-in-polished-chrome-brushed-nickel-or-matte-black"/>
+    <title>3 Handle Wall Mounted Round Head Shower &amp; Tub Faucet Set (In Polished Chrome, Brushed Nickel, or Matte Black)</title>
+    <s:type>Shower Sets</s:type>
+    <s:vendor>Lowes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2449/7105/products/BW-2027092-PC.jpg?v=1569277928"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lowes<br>
+        <strong>Type: </strong>Shower Sets<br>
+        <strong>Price: </strong>
+            85.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3 Handle Wall Mounted Square Head Shower &amp; Tub Faucet Set</s:tag>
+    <s:tag>brushed nickel finish</s:tag>
+    <s:tag>Shower Faucet</s:tag>
+    <s:tag>Shower Faucet Kit</s:tag>
+    <s:tag>Shower Kit</s:tag>
+    <s:tag>woo_import_1</s:tag>
+    <s:variant>
+      <id>https://www.builderzwarehouse.com/products/2246287589434</id>
+      <title>Polished Chrome</title>
+      <s:price currency="USD">85.95</s:price>
+      <s:sku>BW-BFSS-2027092-C</s:sku>
+      <s:grams>4536</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.builderzwarehouse.com/products/2246287589434</id>
+      <title>Brushed Nickel</title>
+      <s:price currency="USD">85.95</s:price>
+      <s:sku>BW-BFSS-2027092N</s:sku>
+      <s:grams>4536</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.builderzwarehouse.com/products/2246287589434</id>
+      <title>Matte Black</title>
+      <s:price currency="USD">85.95</s:price>
+      <s:sku>BW-BFSS-2027092B</s:sku>
+      <s:grams>4536</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.builderzwarehouse.com/products/1673560653882</id>
+    <published>2019-09-23T15:54:21-07:00</published>
+    <updated>2019-09-23T15:54:21-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.builderzwarehouse.com/products/copy-of-59-in-110-jet-premium-shower-tower-system-with-rain-head-and-spray-wand-chrome"/>
+    <title>59 in. 110-jet Premium Shower Tower System (Chrome)</title>
+    <s:type>Shower Sets</s:type>
+    <s:vendor>Home Depot</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2449/7105/products/BW-S9955-1_2b5dbe9a-dfe5-4e81-9b37-665d68555588.png?v=1569279424"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Home Depot<br>
+        <strong>Type: </strong>Shower Sets<br>
+        <strong>Price: </strong>
+            164.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Shower Kit</s:tag>
+    <s:tag>woo_import_1</s:tag>
+    <s:variant>
+      <id>https://www.builderzwarehouse.com/products/1673560653882</id>
+      <title>Default Title</title>
+      <s:price currency="USD">164.95</s:price>
+      <s:sku>BW-BFSS-A9955-1-PC</s:sku>
+      <s:grams>9072</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.builderzwarehouse.com/products/1673567338554</id>
+    <published>2018-12-28T04:16:00-07:00</published>
+    <updated>2018-12-28T04:16:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.builderzwarehouse.com/products/copy-of-59-in-110-jet-premium-shower-tower-system-with-rain-head-and-spray-wand-brushed-nickel"/>
+    <title>59 in. 110-jet Premium Shower Tower System (Brushed Nickel)</title>
+    <s:type>Shower Sets</s:type>
+    <s:vendor>Home Depot</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2449/7105/products/BW-S9955-1_f09da91d-72b0-4d13-b7df-3b76d493b0e7.png?v=1569278772"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Home Depot<br>
+        <strong>Type: </strong>Shower Sets<br>
+        <strong>Price: </strong>
+            181.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>woo_import_1</s:tag>
+    <s:variant>
+      <id>https://www.builderzwarehouse.com/products/1673567338554</id>
+      <title>Default Title</title>
+      <s:price currency="USD">181.95</s:price>
+      <s:sku>BW-BFSS-S9955-1-BN</s:sku>
+      <s:grams>9072</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.builderzwarehouse.com/products/13132405131</id>
+    <published>2017-10-24T22:42:33-07:00</published>
+    <updated>2017-10-24T22:42:33-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.builderzwarehouse.com/products/single-lever-concealed-shower-and-tub-faucet-kit-with-wand-chrome"/>
+    <title>Single Handle Concealed Shower and Tub Faucet Kit with Wand (Chrome)</title>
+    <s:type>Shower Sets</s:type>
+    <s:vendor>Home Depot</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2449/7105/products/BW-KD-A1901.jpg?v=1569278533"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Home Depot<br>
+        <strong>Type: </strong>Shower Sets<br>
+        <strong>Price: </strong>
+            151.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Chrome Shower and tub faucet</s:tag>
+    <s:tag>Chrome Shower Faucet</s:tag>
+    <s:tag>Shower and Tub Faucet</s:tag>
+    <s:tag>shower and tub trim kit</s:tag>
+    <s:tag>Single lever shower and tub faucet</s:tag>
+    <s:tag>tub and shower kit</s:tag>
+    <s:tag>woo_import_1</s:tag>
+    <s:variant>
+      <id>https://www.builderzwarehouse.com/products/13132405131</id>
+      <title>Default Title</title>
+      <s:price currency="USD">151.95</s:price>
+      <s:sku>BW-BFSS-KD52101</s:sku>
+      <s:grams>4990</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.builderzwarehouse.com/products/13132398987</id>
+    <published>2017-10-24T22:42:11-07:00</published>
+    <updated>2017-10-24T22:42:11-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.builderzwarehouse.com/products/55-in-90-jet-premium-shower-tower-system-with-rain-head-and-spray-wand-white"/>
+    <title>55 in. 90-jet Premium Shower Tower System with Rain Head and Spray Wand (White)</title>
+    <s:type>Shower Set</s:type>
+    <s:vendor>Home Depot</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2449/7105/products/BW-P5089.png?v=1569278513"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Home Depot<br>
+        <strong>Type: </strong>Shower Set<br>
+        <strong>Price: </strong>
+            157.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>woo_import_1</s:tag>
+    <s:variant>
+      <id>https://www.builderzwarehouse.com/products/13132398987</id>
+      <title>Default Title</title>
+      <s:price currency="USD">157.95</s:price>
+      <s:sku>BW-BFSS-P5089-W</s:sku>
+      <s:grams>9072</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.builderzwarehouse.com/products/2246294306874</id>
+    <published>2017-10-24T22:41:07-07:00</published>
+    <updated>2017-10-24T22:41:07-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.builderzwarehouse.com/products/2-handle-wall-mounted-round-head-shower-in-polished-chrome-brushed-nickel-or-matte-black"/>
+    <title>2 Handle Wall Mounted Round Head Shower (In Polished Chrome, Brushed Nickel, or Matte Black)</title>
+    <s:type>Shower Sets</s:type>
+    <s:vendor>Home Depot</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2449/7105/products/BW-5039092-PC.jpg?v=1569277932"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Home Depot<br>
+        <strong>Type: </strong>Shower Sets<br>
+        <strong>Price: </strong>
+            76.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3 Handle Wall Mounted Square Head Shower &amp; Tub Faucet Set</s:tag>
+    <s:tag>brushed nickel finish</s:tag>
+    <s:tag>Shower Faucet</s:tag>
+    <s:tag>Shower Faucet Kit</s:tag>
+    <s:tag>Shower Kit</s:tag>
+    <s:tag>woo_import_1</s:tag>
+    <s:variant>
+      <id>https://www.builderzwarehouse.com/products/2246294306874</id>
+      <title>Polished Chrome</title>
+      <s:price currency="USD">76.95</s:price>
+      <s:sku>BW-BFSS-BW-0161092-PC</s:sku>
+      <s:grams>4536</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.builderzwarehouse.com/products/2246294306874</id>
+      <title>Brushed Nickel</title>
+      <s:price currency="USD">76.95</s:price>
+      <s:sku>BW-BFSS-BW-0161092-BN</s:sku>
+      <s:grams>4536</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.builderzwarehouse.com/products/2246294306874</id>
+      <title>Matte Black</title>
+      <s:price currency="USD">76.95</s:price>
+      <s:sku>BW-BFSS-BW-0161092-MB</s:sku>
+      <s:grams>4536</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.builderzwarehouse.com/products/13132377867</id>
+    <published>2017-10-24T22:41:07-07:00</published>
+    <updated>2017-10-24T22:41:07-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.builderzwarehouse.com/products/single-lever-concealed-shower-faucet-w-brass-pressure-balanced-valve-brushed-nickel-finish"/>
+    <title>3 Handle Wall Mounted Round Head Shower &amp; Tub Faucet Set (In Polished Chrome, Brushed Nickel, or Matte Black)</title>
+    <s:type>Shower Sets</s:type>
+    <s:vendor>Home Depot</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2449/7105/products/BW-2027079-PC_68477bf4-a944-4202-a592-93556c6e1ce5.jpg?v=1569277403"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Home Depot<br>
+        <strong>Type: </strong>Shower Sets<br>
+        <strong>Price: </strong>
+            76.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3 Handle Wall Mounted Square Head Shower &amp; Tub Faucet Set</s:tag>
+    <s:tag>brushed nickel finish</s:tag>
+    <s:tag>Shower Faucet</s:tag>
+    <s:tag>Shower Faucet Kit</s:tag>
+    <s:tag>Shower Kit</s:tag>
+    <s:tag>woo_import_1</s:tag>
+    <s:variant>
+      <id>https://www.builderzwarehouse.com/products/13132377867</id>
+      <title>Polished Chrome</title>
+      <s:price currency="USD">76.95</s:price>
+      <s:sku>BW-BFSS-2027079-PC</s:sku>
+      <s:grams>4536</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.builderzwarehouse.com/products/13132377867</id>
+      <title>Brushed Nickel</title>
+      <s:price currency="USD">76.95</s:price>
+      <s:sku>BW-BFSS-2027079-BN</s:sku>
+      <s:grams>4536</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.builderzwarehouse.com/products/13132377867</id>
+      <title>Matte Black</title>
+      <s:price currency="USD">76.95</s:price>
+      <s:sku>BW-BFSS-2027079-MB</s:sku>
+      <s:grams>4536</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.builderzwarehouse.com/products/13132377419</id>
+    <published>2017-10-24T22:41:06-07:00</published>
+    <updated>2017-10-24T22:41:06-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.builderzwarehouse.com/products/single-lever-concealed-shower-and-tub-faucet-trim-kit-brushed-nickel-finish"/>
+    <title>Single Handle Concealed Shower and Tub Faucet Set w/ Brass Pressure Balanced Valve (Brushed Nickel)</title>
+    <s:type>Shower Sets</s:type>
+    <s:vendor>Home Depot</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2449/7105/products/original-16.jpg?v=1569277399"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Home Depot<br>
+        <strong>Type: </strong>Shower Sets<br>
+        <strong>Price: </strong>
+            117.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Facing a major renovation for your hotel or apartment complex, or are you just shopping for a single home? Either way, this single-lever concealed shower and tub faucet set with brass pressure-balanced valve will fit the bill nicely. Simple, elegant, and modern, this shower and tub faucet set features a ceramic valve core, brass body, and a brushed nickel finish. It's been acid salt spray tested to ensure corrosion resistance, and is priced move quickly. Grab one before they're gone.</p>
+<ul class="attr-list">
+<li>Surface Finishing: <span class="attr-value" title="Chrome" mce-data-marked="1">Brushed Nickel</span>
+</li>
+<li>
+<span class="attr-name" title="Bath &amp; Shower Faucet Type">Bath &amp; Shower Faucet Type:</span> <span class="attr-value" title="In-Wall Shower Faucets">In-Wall Shower and Tub Faucets</span>
+</li>
+<li><span class="attr-value" title="Single Handle">Single Handle</span></li>
+<li>
+<span class="attr-name" title="Style">Style:</span> <span class="attr-value" title="Contemporary">Contemporary</span>
+</li>
+<li>
+<span class="attr-name" title="Valve Core Material">Valve Core Material:</span> <span class="attr-value" title="Ceramic">Ceramic</span>
+</li>
+<li>
+<span class="attr-name" title="Feature">Feature:</span> <span class="attr-value" title="Metered Faucets">Metered Faucets</span>
+</li>
+</ul>
+<!-- split -->
+<table class="shop_attributes">
+<tbody>
+<tr>
+<th>Weight</th>
+<td class="product_weight">11 lbs</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Chrome Shower and tub faucet</s:tag>
+    <s:tag>Chrome Shower Faucet</s:tag>
+    <s:tag>Shower and Tub Faucet</s:tag>
+    <s:tag>shower and tub trim kit</s:tag>
+    <s:tag>Single lever shower and tub faucet</s:tag>
+    <s:tag>tub and shower kit</s:tag>
+    <s:tag>woo_import_1</s:tag>
+    <s:variant>
+      <id>https://www.builderzwarehouse.com/products/13132377419</id>
+      <title>Default Title</title>
+      <s:price currency="USD">117.95</s:price>
+      <s:sku>BW-BFSS-S551</s:sku>
+      <s:grams>4990</s:grams>
+    </s:variant>
+  </entry>
+</feed>

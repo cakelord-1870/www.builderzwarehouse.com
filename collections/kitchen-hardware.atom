@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.builderzwarehouse.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.builderzwarehouse.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.builderzwarehouse.com/collections/kitchen-hardware.atom"/>
+  <title>Builderz Warehouse</title>
+  <updated>2019-09-26T09:04:03-07:00</updated>
+  <author>
+    <name>Builderz Warehouse</name>
+  </author>
+  <entry>
+    <id>https://www.builderzwarehouse.com/products/2362526826554</id>
+    <published>2019-09-26T09:04:03-07:00</published>
+    <updated>2019-09-26T09:04:03-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.builderzwarehouse.com/products/6-ft-plastic-dishwasher-supply-line"/>
+    <title>6 ft. Corrugated Dishwasher Plastic Drain Hose</title>
+    <s:type>Kitchen Hardware</s:type>
+    <s:vendor>Builderz Warehouse</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2449/7105/products/BW-KHSL-92122-72.jpg?v=1569513834"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Builderz Warehouse<br>
+        <strong>Type: </strong>Kitchen Hardware<br>
+        <strong>Price: </strong>
+            10.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Good</s:tag>
+    <s:tag>Multifamily</s:tag>
+    <s:variant>
+      <id>https://www.builderzwarehouse.com/products/2362526826554</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.75</s:price>
+      <s:sku>BW-KHSL-92122-72</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.builderzwarehouse.com/products/2362523385914</id>
+    <published>2019-09-26T08:59:31-07:00</published>
+    <updated>2019-09-26T08:59:31-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.builderzwarehouse.com/products/stainless-steel-universal-dishwasher-supply-line-3-8-in-x-3-8-in-x-60-in"/>
+    <title>Stainless Steel Universal Dishwasher Supply Line 3/8 in. x 3/8 in. x 60 in.</title>
+    <s:type>Kitchen Hardware</s:type>
+    <s:vendor>Builderz Warehouse</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2449/7105/products/BW-KHSL-93104-60.jpg?v=1588030075"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Builderz Warehouse<br>
+        <strong>Type: </strong>Kitchen Hardware<br>
+        <strong>Price: </strong>
+            9.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Good</s:tag>
+    <s:tag>Multifamily</s:tag>
+    <s:variant>
+      <id>https://www.builderzwarehouse.com/products/2362523385914</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku>BW-KHSL-93104-60</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.builderzwarehouse.com/products/2362603077690</id>
+    <published>2019-04-02T22:19:15-07:00</published>
+    <updated>2019-04-02T22:19:15-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.builderzwarehouse.com/products/5-in-round-metal-cabinet-drawer-pull-in-matte-black"/>
+    <title>5 in. Round Metal Cabinet/Drawer Pull in Matte Black (Set of 10)</title>
+    <s:type>Cabinet Pulls</s:type>
+    <s:vendor>Lowes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2449/7105/products/BW-cabinet-handle-MB_08449e40-5bc8-475a-bdf6-c67ef40654ea.jpg?v=1569277979"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lowes<br>
+        <strong>Type: </strong>Cabinet Pulls<br>
+        <strong>Price: </strong>
+            12.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Coming Soon</s:tag>
+    <s:variant>
+      <id>https://www.builderzwarehouse.com/products/2362603077690</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.95</s:price>
+      <s:sku>BW-HCP-6101-MB</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.builderzwarehouse.com/products/2362539999290</id>
+    <published>2019-04-02T20:14:59-07:00</published>
+    <updated>2019-04-02T20:14:59-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.builderzwarehouse.com/products/5-in-metal-cabinet-drawer-pull-in-stainless-steel"/>
+    <title>5 in. Metal Cabinet/Drawer Pull Brushed Nickel (Set of 10)</title>
+    <s:type>Cabinet Pulls</s:type>
+    <s:vendor>Lowes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2449/7105/products/BW-cabinet-handle-SS_09ad8eda-ac2e-45cc-9302-8007166de61b.jpg?v=1569277977"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lowes<br>
+        <strong>Type: </strong>Cabinet Pulls<br>
+        <strong>Price: </strong>
+            13.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Good</s:tag>
+    <s:tag>Multifamily</s:tag>
+    <s:variant>
+      <id>https://www.builderzwarehouse.com/products/2362539999290</id>
+      <title>Default Title</title>
+      <s:price currency="USD">13.90</s:price>
+      <s:sku>BW-HCP-SS6101-SS</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+</feed>

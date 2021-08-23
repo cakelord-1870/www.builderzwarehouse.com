@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.builderzwarehouse.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.builderzwarehouse.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.builderzwarehouse.com/collections/mosaic-tile.atom"/>
+  <title>Builderz Warehouse</title>
+  <updated>2018-03-08T18:38:39-07:00</updated>
+  <author>
+    <name>Builderz Warehouse</name>
+  </author>
+  <entry>
+    <id>https://www.builderzwarehouse.com/products/13132351499</id>
+    <published>2018-03-08T18:38:39-07:00</published>
+    <updated>2018-03-08T18:38:39-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.builderzwarehouse.com/products/glossy-white-hexagonal-mosaic"/>
+    <title>Glossy White Hexagonal Mosaic Tile (1 sq ft sheet)</title>
+    <s:type>Mosaic Tile</s:type>
+    <s:vendor>Floor &amp; Decor</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2449/7105/products/CTR-WB32000-1_1024x1024_c22d32eb-468f-4400-85f8-51e70fdd0c60.jpg?v=1569278252"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Floor &amp; Decor<br>
+        <strong>Type: </strong>Mosaic Tile<br>
+        <strong>Price: </strong>
+            2.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>calc</s:tag>
+    <s:tag>woo_import_1</s:tag>
+    <s:variant>
+      <id>https://www.builderzwarehouse.com/products/13132351499</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.95</s:price>
+      <s:sku>BW-TLMS-VWB32000</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.builderzwarehouse.com/products/542589288506</id>
+    <published>2018-03-08T18:38:12-07:00</published>
+    <updated>2018-03-08T18:38:12-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.builderzwarehouse.com/products/glossy-white-penny-tile-mosaic-1-sq-ft-sheet"/>
+    <title>Glossy White Penny Tile Mosaic (1 sq ft sheet)</title>
+    <s:type>Mosaic Tile</s:type>
+    <s:vendor>Floor &amp; Decor</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2449/7105/products/penny-tile-front.jpg?v=1569278562"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Floor &amp; Decor<br>
+        <strong>Type: </strong>Mosaic Tile<br>
+        <strong>Price: </strong>
+            2.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>calc</s:tag>
+    <s:tag>woo_import_1</s:tag>
+    <s:variant>
+      <id>https://www.builderzwarehouse.com/products/542589288506</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.95</s:price>
+      <s:sku>BW-TLMS-CTRNK72001</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.builderzwarehouse.com/products/13132352523</id>
+    <published>2018-03-08T18:38:12-07:00</published>
+    <updated>2018-03-08T18:38:12-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.builderzwarehouse.com/products/glossy-white-square-mosaic-tile"/>
+    <title>Glossy White Square Mosaic Tile (1 sq ft sheet)</title>
+    <s:type>Mosaic Tile</s:type>
+    <s:vendor>Home Depot</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2449/7105/products/CTR-WS32000-1_1024x1024_ed011588-9915-4ae2-aec8-e6cf628a6186.jpg?v=1569278255"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Home Depot<br>
+        <strong>Type: </strong>Mosaic Tile<br>
+        <strong>Price: </strong>
+            1.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>calc</s:tag>
+    <s:tag>woo_import_1</s:tag>
+    <s:variant>
+      <id>https://www.builderzwarehouse.com/products/13132352523</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.75</s:price>
+      <s:sku>BW-TLMS-CTRWS32000</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.builderzwarehouse.com/products/13132398603</id>
+    <published>2017-10-24T22:42:10-07:00</published>
+    <updated>2017-10-24T22:42:10-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.builderzwarehouse.com/products/large-marble-look-white-hexagonal-mosaic-tile-11x13"/>
+    <title>Large Marble Look White Hexagonal Mosaic Tile (11&quot; x 13&quot;)</title>
+    <s:type>Mosaic Tile</s:type>
+    <s:vendor>Floor &amp; Decor</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2449/7105/products/Large_Hex_Mosaic_2_grande_5834a752-3cec-4418-bea3-9ab9344d1a54.jpg?v=1569278509"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Floor &amp; Decor<br>
+        <strong>Type: </strong>Mosaic Tile<br>
+        <strong>Price: </strong>
+            2.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>calc</s:tag>
+    <s:tag>woo_import_1</s:tag>
+    <s:variant>
+      <id>https://www.builderzwarehouse.com/products/13132398603</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.95</s:price>
+      <s:sku>BW-TLLG-CTRCMP6670</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.builderzwarehouse.com/products/13132394123</id>
+    <published>2017-10-24T22:41:56-07:00</published>
+    <updated>2017-10-24T22:41:56-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.builderzwarehouse.com/products/white-marble-look-hexagonal-mosaic-tile"/>
+    <title>White Marble Look Hexagonal Mosaic Tile (1 sq ft sheet)</title>
+    <s:type>Mosaic Tile</s:type>
+    <s:vendor>Floor &amp; Decor</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2449/7105/products/BW-CTRCMFH002_3333b931-a654-4b15-8ae1-b617c29b5512.jpg?v=1569278491"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Floor &amp; Decor<br>
+        <strong>Type: </strong>Mosaic Tile<br>
+        <strong>Price: </strong>
+            5.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>calc</s:tag>
+    <s:tag>woo_import_1</s:tag>
+    <s:variant>
+      <id>https://www.builderzwarehouse.com/products/13132394123</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.95</s:price>
+      <s:sku>BW-TLMS-CTRCMFH002</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.builderzwarehouse.com/products/13132393035</id>
+    <published>2017-10-24T22:41:52-07:00</published>
+    <updated>2017-10-24T22:41:52-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.builderzwarehouse.com/products/glossy-white-arabesque-lantern-mosaic-tile"/>
+    <title>Glossy White Arabesque Mosaic Tile  (1 sq ft sheet)</title>
+    <s:type>Mosaic Tile</s:type>
+    <s:vendor>Floor &amp; Decor</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2449/7105/products/BW-CTR-DA40015-4_1024x1024_bbec5abd-6fd8-4a2f-bbf6-c2c09ddbb56d.jpg?v=1569278488"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Floor &amp; Decor<br>
+        <strong>Type: </strong>Mosaic Tile<br>
+        <strong>Price: </strong>
+            2.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>calc</s:tag>
+    <s:tag>woo_import_1</s:tag>
+    <s:variant>
+      <id>https://www.builderzwarehouse.com/products/13132393035</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.95</s:price>
+      <s:sku>BW-TLMS-VDA40015</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.builderzwarehouse.com/products/13085710155</id>
+    <published>2017-10-22T20:56:57-07:00</published>
+    <updated>2017-10-22T20:56:57-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.builderzwarehouse.com/products/marble-look-white-square-mosaic-tile-11in-x-13in"/>
+    <title>Marble Look White Square Mosaic Tile (1 Sq ft sheet)</title>
+    <s:type>Mosaic Tile</s:type>
+    <s:vendor>Floor &amp; Decor</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2449/7105/products/BW-CTR-CM-FS002-1_grande_39675120-281c-4ee3-a20a-7296c3296a95.jpg?v=1569278205"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Floor &amp; Decor<br>
+        <strong>Type: </strong>Mosaic Tile<br>
+        <strong>Price: </strong>
+            3.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>calc</s:tag>
+    <s:tag>woo_import_1</s:tag>
+    <s:variant>
+      <id>https://www.builderzwarehouse.com/products/13085710155</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.95</s:price>
+      <s:sku>BW-TLMS-CTRCMFS002</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

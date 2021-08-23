@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.builderzwarehouse.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.builderzwarehouse.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.builderzwarehouse.com/collections/vanity-mirrors.atom"/>
+  <title>Builderz Warehouse</title>
+  <updated>2019-10-25T08:59:16-07:00</updated>
+  <author>
+    <name>Builderz Warehouse</name>
+  </author>
+  <entry>
+    <id>https://www.builderzwarehouse.com/products/4310068428858</id>
+    <published>2019-10-25T08:59:16-07:00</published>
+    <updated>2019-10-25T08:59:16-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.builderzwarehouse.com/products/mirror-24-5-x-35-5-white"/>
+    <title>Mirror 24.5&quot; x 35.5&quot; White</title>
+    <s:type>Vanity Mirrors</s:type>
+    <s:vendor>Builderz Warehouse</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Builderz Warehouse<br>
+        <strong>Type: </strong>Vanity Mirrors<br>
+        <strong>Price: </strong>
+            49.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Mirror 24.5" x 35.5" White</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.builderzwarehouse.com/products/4310068428858</id>
+      <title>Wholesale</title>
+      <s:price currency="USD">49.95</s:price>
+      <s:sku>BW-SYWM4518-N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.builderzwarehouse.com/products/4309706801210</id>
+    <published>2019-10-24T12:54:23-07:00</published>
+    <updated>2019-10-24T12:54:23-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.builderzwarehouse.com/products/mirror-24-5-x-35-5-brushed-nickel"/>
+    <title>Mirror 24.5&quot; x 35.5&quot; Brushed Nickel</title>
+    <s:type>Vanity Mirrors</s:type>
+    <s:vendor>Builderz Warehouse</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2449/7105/products/mirror_bn.jpg?v=1574282311"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Builderz Warehouse<br>
+        <strong>Type: </strong>Vanity Mirrors<br>
+        <strong>Price: </strong>
+            49.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Mirror 24.5" x 35.5" Brushed Nickel</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Good</s:tag>
+    <s:tag>Multifamily</s:tag>
+    <s:variant>
+      <id>https://www.builderzwarehouse.com/products/4309706801210</id>
+      <title>Default Title</title>
+      <s:price currency="USD">49.95</s:price>
+      <s:sku>BW-SYWM4518-N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

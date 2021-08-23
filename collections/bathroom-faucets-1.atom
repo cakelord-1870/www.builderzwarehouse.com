@@ -1,0 +1,1142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.builderzwarehouse.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.builderzwarehouse.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.builderzwarehouse.com/collections/bathroom-faucets-1.atom"/>
+  <title>Builderz Warehouse</title>
+  <updated>2019-12-18T14:59:59-07:00</updated>
+  <author>
+    <name>Builderz Warehouse</name>
+  </author>
+  <entry>
+    <id>https://www.builderzwarehouse.com/products/4373796454458</id>
+    <published>2019-12-18T14:59:59-07:00</published>
+    <updated>2019-12-18T14:59:59-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.builderzwarehouse.com/products/single-hole-single-handle-vessel-bathroom-faucet-1"/>
+    <title>Single Hole Single-Handle Vessel Bathroom Faucet (Brushed Nickel or Polished Chrome)</title>
+    <s:type>Single Hole Bathroom Faucets</s:type>
+    <s:vendor>Builders Warehouse AZ</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2449/7105/products/BW-BFSH-K224139-P00006.jpg?v=1576706702"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Builders Warehouse AZ<br>
+        <strong>Type: </strong>Single Hole Bathroom Faucets<br>
+        <strong>Price: </strong>
+            24.95 - 29.95
+            <a href="https://www.builderzwarehouse.com/products/single-hole-single-handle-vessel-bathroom-faucet-1">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bathroom Faucet</s:tag>
+    <s:tag>Bathroom Vessel Sink Faucet</s:tag>
+    <s:tag>Chrome Faucet</s:tag>
+    <s:tag>Chrome Finish Faucet</s:tag>
+    <s:tag>faucet</s:tag>
+    <s:tag>Modern Faucet</s:tag>
+    <s:tag>Modern Vessel Faucet</s:tag>
+    <s:tag>Single Handle Bathroom Faucet</s:tag>
+    <s:tag>Single Handle Faucet</s:tag>
+    <s:tag>Single Hole Faucet</s:tag>
+    <s:tag>Vessel Faucet</s:tag>
+    <s:tag>woo_import_1</s:tag>
+    <s:variant>
+      <id>https://www.builderzwarehouse.com/products/4373796454458</id>
+      <title>Polished Chrome</title>
+      <s:price currency="USD">24.95</s:price>
+      <s:sku>K224139-P00006-PC</s:sku>
+      <s:grams>4082</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.builderzwarehouse.com/products/4373796454458</id>
+      <title>Brushed Nickel</title>
+      <s:price currency="USD">29.95</s:price>
+      <s:sku>K224139-P00006-BN</s:sku>
+      <s:grams>4082</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.builderzwarehouse.com/products/4357690818618</id>
+    <published>2019-11-20T13:40:05-07:00</published>
+    <updated>2019-11-20T13:40:05-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.builderzwarehouse.com/products/4-bathroom-faucet-brushed-nickel"/>
+    <title>4&quot; Bathroom Faucet Brushed Nickel</title>
+    <s:type>Wide Mount Bathroom Faucets</s:type>
+    <s:vendor>Builderz Warehouse</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2449/7105/products/faucet.png?v=1595517463"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Builderz Warehouse<br>
+        <strong>Type: </strong>Wide Mount Bathroom Faucets<br>
+        <strong>Price: </strong>
+            59.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Good</s:tag>
+    <s:tag>Multifamily</s:tag>
+    <s:tag>noimage</s:tag>
+    <s:variant>
+      <id>https://www.builderzwarehouse.com/products/4357690818618</id>
+      <title>Default Title</title>
+      <s:price currency="USD">59.95</s:price>
+      <s:sku>BW-F9608-BN</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.builderzwarehouse.com/products/2458545487930</id>
+    <published>2019-09-25T11:39:46-07:00</published>
+    <updated>2019-09-25T11:39:46-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.builderzwarehouse.com/products/single-hole-single-handle-bathroom-faucet-in-brushed-nickel-1"/>
+    <title>Single Hole Single Handle Bathroom Faucet in Brushed Nickel</title>
+    <s:type>Single Hole Bathroom Faucets</s:type>
+    <s:vendor>Home Depot</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2449/7105/products/BW-BFSH-M264BN.jpg?v=1569278123"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Home Depot<br>
+        <strong>Type: </strong>Single Hole Bathroom Faucets<br>
+        <strong>Price: </strong>
+            79.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bathroom Faucet</s:tag>
+    <s:tag>brass basin faucet</s:tag>
+    <s:tag>Modern Faucet</s:tag>
+    <s:tag>noimage</s:tag>
+    <s:tag>Single Handle Bathroom Faucet</s:tag>
+    <s:tag>Unavailable</s:tag>
+    <s:tag>woo_import_1</s:tag>
+    <s:variant>
+      <id>https://www.builderzwarehouse.com/products/2458545487930</id>
+      <title>Default Title</title>
+      <s:price currency="USD">79.95</s:price>
+      <s:sku>BW-BFSH-M264BN</s:sku>
+      <s:grams>1048</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.builderzwarehouse.com/products/2458545946682</id>
+    <published>2019-09-25T11:23:46-07:00</published>
+    <updated>2019-09-25T11:23:46-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.builderzwarehouse.com/products/single-hole-single-handle-bathroom-faucet-in-brushed-nickel-2"/>
+    <title>Single Hole Single Handle Bathroom Faucet in Matte Black</title>
+    <s:type>Single Hole Bathroom Faucets</s:type>
+    <s:vendor>Home Depot</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2449/7105/products/BW-BFSH-M265MB.jpg?v=1569278126"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Home Depot<br>
+        <strong>Type: </strong>Single Hole Bathroom Faucets<br>
+        <strong>Price: </strong>
+            64.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bathroom Faucet</s:tag>
+    <s:tag>brass basin faucet</s:tag>
+    <s:tag>Modern Faucet</s:tag>
+    <s:tag>noimage</s:tag>
+    <s:tag>Single Handle Bathroom Faucet</s:tag>
+    <s:tag>Unavailable</s:tag>
+    <s:tag>woo_import_1</s:tag>
+    <s:variant>
+      <id>https://www.builderzwarehouse.com/products/2458545946682</id>
+      <title>Default Title</title>
+      <s:price currency="USD">64.95</s:price>
+      <s:sku>BW-BFSH-M265MB</s:sku>
+      <s:grams>1048</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.builderzwarehouse.com/products/2458544504890</id>
+    <published>2019-09-25T11:21:48-07:00</published>
+    <updated>2019-09-25T11:21:48-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.builderzwarehouse.com/products/single-hole-single-handle-bathroom-faucet-in-matte-black"/>
+    <title>Single Hole Single Handle Bathroom Faucet in Matte Black</title>
+    <s:type>Single Hole Bathroom Faucets</s:type>
+    <s:vendor>Home Depot</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2449/7105/products/BW-BFSH-M264MB.jpg?v=1569278119"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Home Depot<br>
+        <strong>Type: </strong>Single Hole Bathroom Faucets<br>
+        <strong>Price: </strong>
+            74.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bathroom Faucet</s:tag>
+    <s:tag>brass basin faucet</s:tag>
+    <s:tag>Modern Faucet</s:tag>
+    <s:tag>noimage</s:tag>
+    <s:tag>Single Handle Bathroom Faucet</s:tag>
+    <s:tag>Unavailable</s:tag>
+    <s:tag>woo_import_1</s:tag>
+    <s:variant>
+      <id>https://www.builderzwarehouse.com/products/2458544504890</id>
+      <title>Default Title</title>
+      <s:price currency="USD">74.95</s:price>
+      <s:sku>BW-BFSH-M264MB</s:sku>
+      <s:grams>1048</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.builderzwarehouse.com/products/2458541948986</id>
+    <published>2019-09-25T11:19:21-07:00</published>
+    <updated>2019-09-25T11:19:21-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.builderzwarehouse.com/products/single-hole-single-handle-bathroom-faucet-in-brushed-nickel"/>
+    <title>Single Hole Single Handle Bathroom Faucet in Brushed Nickel</title>
+    <s:type>Single Hole Bathroom Faucets</s:type>
+    <s:vendor>Home Depot</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2449/7105/products/BW-BFSH-M248BN_e14b00fd-bef7-4745-96b2-acb6121a0a16.jpg?v=1569278115"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Home Depot<br>
+        <strong>Type: </strong>Single Hole Bathroom Faucets<br>
+        <strong>Price: </strong>
+            57.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bathroom Faucet</s:tag>
+    <s:tag>brass basin faucet</s:tag>
+    <s:tag>Modern Faucet</s:tag>
+    <s:tag>noimage</s:tag>
+    <s:tag>Single Handle Bathroom Faucet</s:tag>
+    <s:tag>Unavailable</s:tag>
+    <s:tag>woo_import_1</s:tag>
+    <s:variant>
+      <id>https://www.builderzwarehouse.com/products/2458541948986</id>
+      <title>Default Title</title>
+      <s:price currency="USD">57.95</s:price>
+      <s:sku>BW-BFSH-M248BN</s:sku>
+      <s:grams>1048</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.builderzwarehouse.com/products/2458539687994</id>
+    <published>2019-09-25T11:17:51-07:00</published>
+    <updated>2019-09-25T11:17:51-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.builderzwarehouse.com/products/copy-of-single-hole-single-handle-bathroom-faucet"/>
+    <title>Single Hole Single Handle Bathroom Faucet in Matte Black</title>
+    <s:type>Single Hole Bathroom Faucets</s:type>
+    <s:vendor>Home Depot</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2449/7105/products/BW-BFSH-M248MB.png?v=1569278111"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Home Depot<br>
+        <strong>Type: </strong>Single Hole Bathroom Faucets<br>
+        <strong>Price: </strong>
+            47.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bathroom Faucet</s:tag>
+    <s:tag>brass basin faucet</s:tag>
+    <s:tag>Modern Faucet</s:tag>
+    <s:tag>noimage</s:tag>
+    <s:tag>Single Handle Bathroom Faucet</s:tag>
+    <s:tag>Unavailable</s:tag>
+    <s:tag>woo_import_1</s:tag>
+    <s:variant>
+      <id>https://www.builderzwarehouse.com/products/2458539687994</id>
+      <title>Default Title</title>
+      <s:price currency="USD">47.95</s:price>
+      <s:sku>BW-BFSH-M248MB</s:sku>
+      <s:grams>1048</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.builderzwarehouse.com/products/1553432576058</id>
+    <published>2018-07-09T09:25:38-07:00</published>
+    <updated>2018-07-09T09:25:38-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.builderzwarehouse.com/products/8-in-modern-widespread-2-handle-ultra-high-arc-bathroom-faucet-brushed-nickel"/>
+    <title>8 in. Modern Widespread 2-Handle Ultra-High Arc Bathroom Faucet (Brushed Nickel)</title>
+    <s:type>Wide Spread Bathroom Faucets</s:type>
+    <s:vendor>Lowes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2449/7105/products/BW-KD-00508_1024x1024_1024x1024_27ee64f1-3145-4736-a29a-7a84549ee117.jpg?v=1569278759"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lowes<br>
+        <strong>Type: </strong>Wide Spread Bathroom Faucets<br>
+        <strong>Price: </strong>
+            65.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2 handle faucet</s:tag>
+    <s:tag>3 hole faucet</s:tag>
+    <s:tag>8 inch bathroom faucet</s:tag>
+    <s:tag>Bathroom Faucet</s:tag>
+    <s:tag>high arc faucet</s:tag>
+    <s:tag>Nickel Faucet</s:tag>
+    <s:tag>two handle faucet</s:tag>
+    <s:tag>woo_import_1</s:tag>
+    <s:variant>
+      <id>https://www.builderzwarehouse.com/products/1553432576058</id>
+      <title>Default Title</title>
+      <s:price currency="USD">65.95</s:price>
+      <s:sku>BW-BFWB-KD00508-BN</s:sku>
+      <s:grams>1202</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.builderzwarehouse.com/products/13132404555</id>
+    <published>2017-10-24T22:42:31-07:00</published>
+    <updated>2017-10-24T22:42:31-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.builderzwarehouse.com/products/8-in-widespread-2-handle-ultra-high-arc-bathroom-faucet"/>
+    <title>8 in. Classic Widespread 2-Handle Ultra-High Arc Bathroom Faucet</title>
+    <s:type>Wide Spread Bathroom Faucets</s:type>
+    <s:vendor>Lowes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2449/7105/products/BW-KD-00511.jpg?v=1569278529"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lowes<br>
+        <strong>Type: </strong>Wide Spread Bathroom Faucets<br>
+        <strong>Price: </strong>
+            70.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2 handle faucet</s:tag>
+    <s:tag>3 hole faucet</s:tag>
+    <s:tag>8 inch bathroom faucet</s:tag>
+    <s:tag>Bathroom Faucet</s:tag>
+    <s:tag>chrome bathroom faucet</s:tag>
+    <s:tag>high arc faucet</s:tag>
+    <s:tag>two handle faucet</s:tag>
+    <s:tag>woo_import_1</s:tag>
+    <s:variant>
+      <id>https://www.builderzwarehouse.com/products/13132404555</id>
+      <title>Default Title</title>
+      <s:price currency="USD">70.95</s:price>
+      <s:sku>BW-BFWB-KD00511-PC</s:sku>
+      <s:grams>1202</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.builderzwarehouse.com/products/13132402891</id>
+    <published>2017-10-24T22:42:25-07:00</published>
+    <updated>2017-10-24T22:42:25-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.builderzwarehouse.com/products/8-in-modern-widespread-2-handle-ultra-high-arc-bathroom-faucet-polished-chrome"/>
+    <title>8 in. Modern Widespread 2-Handle Ultra-High Arc Bathroom Faucet (Polished Chrome)</title>
+    <s:type>Wide Spread Bathroom Faucets</s:type>
+    <s:vendor>Lowes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2449/7105/products/BW-KD00508-PC_50bc1541-0063-4ef6-b53e-c2ee43317873.jpg?v=1569277526"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lowes<br>
+        <strong>Type: </strong>Wide Spread Bathroom Faucets<br>
+        <strong>Price: </strong>
+            65.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2 handle faucet</s:tag>
+    <s:tag>3 hole faucet</s:tag>
+    <s:tag>8 inch bathroom faucet</s:tag>
+    <s:tag>Bathroom Faucet</s:tag>
+    <s:tag>chrome bathroom faucet</s:tag>
+    <s:tag>high arc faucet</s:tag>
+    <s:tag>two handle faucet</s:tag>
+    <s:tag>woo_import_1</s:tag>
+    <s:variant>
+      <id>https://www.builderzwarehouse.com/products/13132402891</id>
+      <title>Default Title</title>
+      <s:price currency="USD">65.95</s:price>
+      <s:sku>BW-BFWB-KD00508-PC</s:sku>
+      <s:grams>1202</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.builderzwarehouse.com/products/13132401675</id>
+    <published>2017-10-24T22:42:21-07:00</published>
+    <updated>2017-10-24T22:42:21-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.builderzwarehouse.com/products/wall-mounted-8in-2-handle-wall-mount-vessel-bathroom-faucet-in-polished-chrome"/>
+    <title>Wall Mounted 8 in. 2-Handle Vessel Bathroom Faucet</title>
+    <s:type>Wide Mount Bathroom Faucets</s:type>
+    <s:vendor>Lowes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2449/7105/products/BW-KD-006082.jpg?v=1569278522"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lowes<br>
+        <strong>Type: </strong>Wide Mount Bathroom Faucets<br>
+        <strong>Price: </strong>
+            65.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2 handle faucet</s:tag>
+    <s:tag>3 hole faucet</s:tag>
+    <s:tag>8 inch bathroom faucet</s:tag>
+    <s:tag>chrome bathroom faucet</s:tag>
+    <s:tag>woo_import_1</s:tag>
+    <s:variant>
+      <id>https://www.builderzwarehouse.com/products/13132401675</id>
+      <title>Default Title</title>
+      <s:price currency="USD">65.95</s:price>
+      <s:sku>BW-BFWS-KD00608-PC</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.builderzwarehouse.com/products/1516754599994</id>
+    <published>2017-10-24T22:42:13-07:00</published>
+    <updated>2017-10-24T22:42:13-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.builderzwarehouse.com/products/single-hole-single-handle-bathroom-faucet-with-drain-lift-assembly-brushed-nickel"/>
+    <title>Single Hole Single Handle Bathroom Faucet with Drain Lift Assembly (Brushed Nickel)</title>
+    <s:type>Single Hole Bathroom Faucets</s:type>
+    <s:vendor>Home Depot</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2449/7105/products/BW-KD60301-BN_a594e9a1-d20b-493c-b3e4-3efbf34a1084.jpg?v=1569277766"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Home Depot<br>
+        <strong>Type: </strong>Single Hole Bathroom Faucets<br>
+        <strong>Price: </strong>
+            36.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>modern bathroom faucet</s:tag>
+    <s:tag>nickel bathroom faucet</s:tag>
+    <s:tag>Nickel Faucet</s:tag>
+    <s:tag>Single Handle Bathroom Faucet</s:tag>
+    <s:tag>single hole bathroom faucet</s:tag>
+    <s:tag>woo_import_1</s:tag>
+    <s:variant>
+      <id>https://www.builderzwarehouse.com/products/1516754599994</id>
+      <title>Default Title</title>
+      <s:price currency="USD">36.95</s:price>
+      <s:sku>BW-BFSH-KD60301-BN</s:sku>
+      <s:grams>1080</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.builderzwarehouse.com/products/542724292666</id>
+    <published>2017-10-24T22:42:13-07:00</published>
+    <updated>2017-10-24T22:42:13-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.builderzwarehouse.com/products/modern-single-hole-single-handle-bathroom-faucet-with-drain-lift-assembly-polished-chrome"/>
+    <title>Single Hole Single Handle Bathroom Faucet with Drain Lift Assembly (Polished Chrome)</title>
+    <s:type>Single Hole Bathroom Faucets</s:type>
+    <s:vendor>Home Depot</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2449/7105/products/kd-60301.jpg?v=1569277572"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Home Depot<br>
+        <strong>Type: </strong>Single Hole Bathroom Faucets<br>
+        <strong>Price: </strong>
+            42.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chrome bathroom faucet</s:tag>
+    <s:tag>Chrome Faucet</s:tag>
+    <s:tag>modern bathroom faucet</s:tag>
+    <s:tag>Single Handle Bathroom Faucet</s:tag>
+    <s:tag>single hole bathroom faucet</s:tag>
+    <s:tag>woo_import_1</s:tag>
+    <s:variant>
+      <id>https://www.builderzwarehouse.com/products/542724292666</id>
+      <title>Default Title</title>
+      <s:price currency="USD">42.95</s:price>
+      <s:sku>BW-BFSH-KD60301-PC</s:sku>
+      <s:grams>1080</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.builderzwarehouse.com/products/13132399563</id>
+    <published>2017-10-24T22:42:13-07:00</published>
+    <updated>2017-10-24T22:42:13-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.builderzwarehouse.com/products/gamma-modern-single-hole-single-handle-bathroom-faucet"/>
+    <title>Single Hole Single Handle Bathroom Faucet</title>
+    <s:type>Single Hole Bathroom Faucets</s:type>
+    <s:vendor>Home Depot</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2449/7105/products/BW-KD-A4103.jpg?v=1569278516"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Home Depot<br>
+        <strong>Type: </strong>Single Hole Bathroom Faucets<br>
+        <strong>Price: </strong>
+            65.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chrome bathroom faucet</s:tag>
+    <s:tag>Chrome Faucet</s:tag>
+    <s:tag>modern bathroom faucet</s:tag>
+    <s:tag>Single Handle Bathroom Faucet</s:tag>
+    <s:tag>single hole bathroom faucet</s:tag>
+    <s:tag>woo_import_1</s:tag>
+    <s:variant>
+      <id>https://www.builderzwarehouse.com/products/13132399563</id>
+      <title>Default Title</title>
+      <s:price currency="USD">65.95</s:price>
+      <s:sku>BW-BFSH-KDA4103</s:sku>
+      <s:grams>1080</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.builderzwarehouse.com/products/13132369739</id>
+    <published>2017-10-24T22:40:44-07:00</published>
+    <updated>2017-10-24T22:40:44-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.builderzwarehouse.com/products/single-hole-single-handle-vessel-bathroom-faucet"/>
+    <title>Modern Single Hole Single-Handle Vessel Bathroom Faucet</title>
+    <s:type>Single Hole Bathroom Faucets</s:type>
+    <s:vendor>Home Depot</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2449/7105/products/A3106.jpg?v=1569278373"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Home Depot<br>
+        <strong>Type: </strong>Single Hole Bathroom Faucets<br>
+        <strong>Price: </strong>
+            49.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bathroom Faucet</s:tag>
+    <s:tag>Bathroom Vessel Sink Faucet</s:tag>
+    <s:tag>Chrome Faucet</s:tag>
+    <s:tag>Chrome Finish Faucet</s:tag>
+    <s:tag>faucet</s:tag>
+    <s:tag>Modern Faucet</s:tag>
+    <s:tag>Modern Vessel Faucet</s:tag>
+    <s:tag>Single Handle Bathroom Faucet</s:tag>
+    <s:tag>Single Handle Faucet</s:tag>
+    <s:tag>Single Hole Faucet</s:tag>
+    <s:tag>Vessel Faucet</s:tag>
+    <s:tag>woo_import_1</s:tag>
+    <s:variant>
+      <id>https://www.builderzwarehouse.com/products/13132369739</id>
+      <title>Default Title</title>
+      <s:price currency="USD">49.95</s:price>
+      <s:sku>BW-BFSH-A3106</s:sku>
+      <s:grams>3801</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.builderzwarehouse.com/products/2184311046202</id>
+    <published>2017-10-24T22:40:39-07:00</published>
+    <updated>2017-10-24T22:40:39-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.builderzwarehouse.com/products/8-in-widespread-2-handle-bathroom-faucet-polished-chrome-bw-6029092-pc"/>
+    <title>8 in. Widespread 2-Handle Bathroom Faucet (Polished Chrome)</title>
+    <s:type>Wide Spread Bathroom Faucets</s:type>
+    <s:vendor>Lowes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2449/7105/products/BW-6029092-PC.jpg?v=1569277888"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lowes<br>
+        <strong>Type: </strong>Wide Spread Bathroom Faucets<br>
+        <strong>Price: </strong>
+            60.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Save on your next bathroom renovation with this two-handle bathroom faucet from Builderz Warehouse. It features a sturdy brass body and a sparkling chrome finish, acid salt spray tested for corrosion resistance. The graceful curves of the faucet deliver a stunning high arc of crystal-clear water. Tested to 500,000 cycles, this faucet has the lasting durability and great price you can always find here at Builderz Warehouse.</p>
+<ul>
+<li>Modern Vessel Deck Mounted Brass Bathroom Faucet Tap</li>
+<li>Polished Chrome Finish</li>
+</ul>
+<div>
+<!-- split --> <img src="//cdn.shopify.com/s/files/1/0071/3195/5269/files/BW-6029092-SPECS_large.jpg?v=1541456433" alt="" style="display: block; margin-left: auto; margin-right: auto;">
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2 handle faucet</s:tag>
+    <s:tag>3 hole faucet</s:tag>
+    <s:tag>8 inch bathroom faucet</s:tag>
+    <s:tag>Bathroom Faucet</s:tag>
+    <s:tag>polished chrome finish</s:tag>
+    <s:tag>two handle faucet</s:tag>
+    <s:tag>woo_import_1</s:tag>
+    <s:variant>
+      <id>https://www.builderzwarehouse.com/products/2184311046202</id>
+      <title>Default Title</title>
+      <s:price currency="USD">60.95</s:price>
+      <s:sku>BW-BFWB-6029092-PC</s:sku>
+      <s:grams>1202</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.builderzwarehouse.com/products/2184311013434</id>
+    <published>2017-10-24T22:40:39-07:00</published>
+    <updated>2017-10-24T22:40:39-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.builderzwarehouse.com/products/8-in-widespread-2-handle-bathroom-faucet-matte-black-bw-6029092-mb"/>
+    <title>8 in. Widespread 2-Handle Bathroom Faucet (Matte Black)</title>
+    <s:type>Wide Spread Bathroom Faucets</s:type>
+    <s:vendor>Lowes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2449/7105/products/BW-6029092-MB.jpg?v=1569277887"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lowes<br>
+        <strong>Type: </strong>Wide Spread Bathroom Faucets<br>
+        <strong>Price: </strong>
+            65.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Save on your next bathroom renovation with this two-handle bathroom faucet from Builderz Warehouse. It features a sturdy brass body and a sparkling chrome finish, acid salt spray tested for corrosion resistance. The graceful curves of the faucet deliver a stunning high arc of crystal-clear water. Tested to 500,000 cycles, this faucet has the lasting durability and great price you can always find here at Builderz Warehouse.</p>
+<ul>
+<li>Modern Vessel Deck Mounted Brass Bathroom Faucet Tap</li>
+<li>Matte Black Finish</li>
+</ul>
+<div>
+<!-- split --> <img src="//cdn.shopify.com/s/files/1/0071/3195/5269/files/BW-6029092-SPECS_large.jpg?v=1541456433" alt="" style="display: block; margin-left: auto; margin-right: auto;">
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2 handle faucet</s:tag>
+    <s:tag>3 hole faucet</s:tag>
+    <s:tag>8 inch bathroom faucet</s:tag>
+    <s:tag>Bathroom Faucet</s:tag>
+    <s:tag>Matte Black Finish</s:tag>
+    <s:tag>two handle faucet</s:tag>
+    <s:tag>woo_import_1</s:tag>
+    <s:variant>
+      <id>https://www.builderzwarehouse.com/products/2184311013434</id>
+      <title>Default Title</title>
+      <s:price currency="USD">65.95</s:price>
+      <s:sku>BW-BFWB-6029092-MB</s:sku>
+      <s:grams>1202</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.builderzwarehouse.com/products/2184310947898</id>
+    <published>2017-10-24T22:40:39-07:00</published>
+    <updated>2017-10-24T22:40:39-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.builderzwarehouse.com/products/8-in-widespread-2-handle-bathroom-faucet-brushed-nickel-bw-6029092-bn"/>
+    <title>8 in. Widespread 2-Handle Bathroom Faucet (Brushed Nickel)</title>
+    <s:type>Wide Spread Bathroom Faucets</s:type>
+    <s:vendor>Lowes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2449/7105/products/BW-6029092-BN.jpg?v=1569277886"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lowes<br>
+        <strong>Type: </strong>Wide Spread Bathroom Faucets<br>
+        <strong>Price: </strong>
+            65.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Save on your next bathroom renovation with this two-handle bathroom faucet from Builderz Warehouse. It features a sturdy brass body and a sparkling chrome finish, acid salt spray tested for corrosion resistance. The graceful curves of the faucet deliver a stunning high arc of crystal-clear water. Tested to 500,000 cycles, this faucet has the lasting durability and great price you can always find here at Builderz Warehouse.</p>
+<ul>
+<li>Modern Vessel Deck Mounted Brass Bathroom Faucet Tap</li>
+<li>Brushed Nickel Finish</li>
+</ul>
+<div>
+<!-- split --> <img src="//cdn.shopify.com/s/files/1/0071/3195/5269/files/BW-6029092-SPECS_large.jpg?v=1541456433" alt="" style="display: block; margin-left: auto; margin-right: auto;">
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2 handle faucet</s:tag>
+    <s:tag>3 hole faucet</s:tag>
+    <s:tag>8 inch bathroom faucet</s:tag>
+    <s:tag>Bathroom Faucet</s:tag>
+    <s:tag>chrome bathroom faucet</s:tag>
+    <s:tag>high arc faucet</s:tag>
+    <s:tag>two handle faucet</s:tag>
+    <s:tag>woo_import_1</s:tag>
+    <s:variant>
+      <id>https://www.builderzwarehouse.com/products/2184310947898</id>
+      <title>Default Title</title>
+      <s:price currency="USD">65.95</s:price>
+      <s:sku>BW-BFWB-6029092-BN</s:sku>
+      <s:grams>1202</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.builderzwarehouse.com/products/2184310358074</id>
+    <published>2017-10-24T22:40:39-07:00</published>
+    <updated>2017-10-24T22:40:39-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.builderzwarehouse.com/products/copy-of-8-in-superior-2-handle-high-arc-bathroom-faucet"/>
+    <title>8 in. 2-Handle High-Arc Bathroom Faucet (Polished Chrome)</title>
+    <s:type>Wide Spread Bathroom Faucets</s:type>
+    <s:vendor>Lowes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2449/7105/products/BW-6027079-PC.jpg?v=1569277884"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lowes<br>
+        <strong>Type: </strong>Wide Spread Bathroom Faucets<br>
+        <strong>Price: </strong>
+            60.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Save on your next bathroom renovation with this two-handle bathroom faucet from Builderz Warehouse. It features a sturdy brass body and a sparkling chrome finish, acid salt spray tested for corrosion resistance. The graceful curves of the faucet deliver a stunning high arc of crystal-clear water. Tested to 500,000 cycles, this faucet has the lasting durability and great price you can always find here at Builderz Warehouse.</p>
+<ul>
+<li>Modern Vessel Deck Mounted Brass Bathroom Faucet Tap</li>
+<li>Polished Chrome Finish</li>
+</ul>
+<div>
+<!-- split --> <img src="//cdn.shopify.com/s/files/1/0071/3195/5269/files/BW-6027079-SPECS_large.jpg?v=1541455642" alt="" style="display: block; margin-left: auto; margin-right: auto;">
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2 handle faucet</s:tag>
+    <s:tag>3 hole faucet</s:tag>
+    <s:tag>8 inch bathroom faucet</s:tag>
+    <s:tag>Bathroom Faucet</s:tag>
+    <s:tag>chrome bathroom faucet</s:tag>
+    <s:tag>high arc faucet</s:tag>
+    <s:tag>two handle faucet</s:tag>
+    <s:tag>woo_import_1</s:tag>
+    <s:variant>
+      <id>https://www.builderzwarehouse.com/products/2184310358074</id>
+      <title>Default Title</title>
+      <s:price currency="USD">60.95</s:price>
+      <s:sku>BW-BFWB-6057079-PC</s:sku>
+      <s:grams>1202</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.builderzwarehouse.com/products/2184310259770</id>
+    <published>2017-10-24T22:40:39-07:00</published>
+    <updated>2017-10-24T22:40:39-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.builderzwarehouse.com/products/8-in-2-handle-high-arc-bathroom-faucet-matte-blackl-bw-6027079-mb"/>
+    <title>8 in. 2-Handle High-Arc Bathroom Faucet (Matte Black) - BW-6027079-MB</title>
+    <s:type>Wide Spread Bathroom Faucets</s:type>
+    <s:vendor>Lowes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2449/7105/products/BW-6027079-MB.jpg?v=1569277883"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lowes<br>
+        <strong>Type: </strong>Wide Spread Bathroom Faucets<br>
+        <strong>Price: </strong>
+            65.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Save on your next bathroom renovation with this two-handle bathroom faucet from Builderz Warehouse. It features a sturdy brass body and a sparkling chrome finish, acid salt spray tested for corrosion resistance. The graceful curves of the faucet deliver a stunning high arc of crystal-clear water. Tested to 500,000 cycles, this faucet has the lasting durability and great price you can always find here at Builderz Warehouse.</p>
+<ul>
+<li>Modern Vessel Deck Mounted Brass Bathroom Faucet Tap</li>
+<li>Brushed Nickel Finish</li>
+</ul>
+<div>
+<!-- split --> <img src="//cdn.shopify.com/s/files/1/0071/3195/5269/files/BW-6027079-SPECS_large.jpg?v=1541455642" alt="" style="display: block; margin-left: auto; margin-right: auto;">
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2 handle faucet</s:tag>
+    <s:tag>3 hole faucet</s:tag>
+    <s:tag>8 inch bathroom faucet</s:tag>
+    <s:tag>Bathroom Faucet</s:tag>
+    <s:tag>chrome bathroom faucet</s:tag>
+    <s:tag>high arc faucet</s:tag>
+    <s:tag>two handle faucet</s:tag>
+    <s:tag>woo_import_1</s:tag>
+    <s:variant>
+      <id>https://www.builderzwarehouse.com/products/2184310259770</id>
+      <title>Default Title</title>
+      <s:price currency="USD">65.95</s:price>
+      <s:sku>BW-BFWB-6027079-MB</s:sku>
+      <s:grams>1202</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.builderzwarehouse.com/products/2184310161466</id>
+    <published>2017-10-24T22:40:39-07:00</published>
+    <updated>2017-10-24T22:40:39-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.builderzwarehouse.com/products/8-in-2-handle-high-arc-bathroom-faucet-brushed-nickel-bw-6027079-bn"/>
+    <title>8 in. 2-Handle High-Arc Bathroom Faucet (Brushed Nickel)</title>
+    <s:type>Wide Spread Bathroom Faucets</s:type>
+    <s:vendor>Lowes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2449/7105/products/BW-6027079-BN.jpg?v=1569277882"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lowes<br>
+        <strong>Type: </strong>Wide Spread Bathroom Faucets<br>
+        <strong>Price: </strong>
+            65.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Save on your next bathroom renovation with this two-handle bathroom faucet from Builderz Warehouse. It features a sturdy brass body and a sparkling chrome finish, acid salt spray tested for corrosion resistance. The graceful curves of the faucet deliver a stunning high arc of crystal-clear water. Tested to 500,000 cycles, this faucet has the lasting durability and great price you can always find here at Builderz Warehouse.</p>
+<ul>
+<li>Modern Vessel Deck Mounted Brass Bathroom Faucet Tap</li>
+<li>Brushed Nickel Finish</li>
+</ul>
+<div>
+<!-- split --> <img src="//cdn.shopify.com/s/files/1/0071/3195/5269/files/BW-6027079-SPECS_large.jpg?v=1541455642" alt="" style="display: block; margin-left: auto; margin-right: auto;">
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2 handle faucet</s:tag>
+    <s:tag>3 hole faucet</s:tag>
+    <s:tag>8 inch bathroom faucet</s:tag>
+    <s:tag>Bathroom Faucet</s:tag>
+    <s:tag>chrome bathroom faucet</s:tag>
+    <s:tag>high arc faucet</s:tag>
+    <s:tag>two handle faucet</s:tag>
+    <s:tag>woo_import_1</s:tag>
+    <s:variant>
+      <id>https://www.builderzwarehouse.com/products/2184310161466</id>
+      <title>Default Title</title>
+      <s:price currency="USD">65.95</s:price>
+      <s:sku>BW-BFWB-6057079-BN</s:sku>
+      <s:grams>1202</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.builderzwarehouse.com/products/13132368011</id>
+    <published>2017-10-24T22:40:39-07:00</published>
+    <updated>2017-10-24T22:40:39-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.builderzwarehouse.com/products/8-in-widespread-2-handle-high-arc-bathroom-faucet-chrome-finish"/>
+    <title>8 in. Superior 2-Handle High-Arc Bathroom Faucet</title>
+    <s:type>Wide Spread Bathroom Faucets</s:type>
+    <s:vendor>Lowes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2449/7105/products/KD-B0901.jpg?v=1569278361"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lowes<br>
+        <strong>Type: </strong>Wide Spread Bathroom Faucets<br>
+        <strong>Price: </strong>
+            93.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2 handle faucet</s:tag>
+    <s:tag>3 hole faucet</s:tag>
+    <s:tag>8 inch bathroom faucet</s:tag>
+    <s:tag>Bathroom Faucet</s:tag>
+    <s:tag>chrome bathroom faucet</s:tag>
+    <s:tag>high arc faucet</s:tag>
+    <s:tag>two handle faucet</s:tag>
+    <s:tag>woo_import_1</s:tag>
+    <s:variant>
+      <id>https://www.builderzwarehouse.com/products/13132368011</id>
+      <title>Default Title</title>
+      <s:price currency="USD">93.95</s:price>
+      <s:sku>BW-BFWB-KDB0901</s:sku>
+      <s:grams>1202</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.builderzwarehouse.com/products/1516727697466</id>
+    <published>2017-10-24T22:40:16-07:00</published>
+    <updated>2017-10-24T22:40:16-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.builderzwarehouse.com/products/beta-modern-single-hole-single-handle-bathroom-faucet-brushed-nickel"/>
+    <title>Single Hole Single Handle Bathroom Faucet (Brushed Nickel)</title>
+    <s:type>Single Hole Bathroom Faucets</s:type>
+    <s:vendor>Home Depot</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2449/7105/products/BW-56203-BN_ba2780d1-78d3-4874-839a-d31c1f27165e.jpg?v=1569278731"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Home Depot<br>
+        <strong>Type: </strong>Single Hole Bathroom Faucets<br>
+        <strong>Price: </strong>
+            40.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>modern bathroom faucet</s:tag>
+    <s:tag>nickel bathroom faucet</s:tag>
+    <s:tag>Single Handle Bathroom Faucet</s:tag>
+    <s:tag>single hole bathroom faucet</s:tag>
+    <s:tag>woo_import_1</s:tag>
+    <s:variant>
+      <id>https://www.builderzwarehouse.com/products/1516727697466</id>
+      <title>Default Title</title>
+      <s:price currency="USD">40.95</s:price>
+      <s:sku>BW-KD56203-BN</s:sku>
+      <s:grams>1080</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.builderzwarehouse.com/products/13132361291</id>
+    <published>2017-10-24T22:40:16-07:00</published>
+    <updated>2017-10-24T22:40:16-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.builderzwarehouse.com/products/modern-single-hole-single-handle-bathroom-faucet-polished-chrome"/>
+    <title>Single Hole Single Handle Bathroom Faucet (Polished Chrome)</title>
+    <s:type>Single Hole Bathroom Faucets</s:type>
+    <s:vendor>Home Depot</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2449/7105/products/56203-1.jpg?v=1569278302"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Home Depot<br>
+        <strong>Type: </strong>Single Hole Bathroom Faucets<br>
+        <strong>Price: </strong>
+            43.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chrome bathroom faucet</s:tag>
+    <s:tag>Chrome Faucet</s:tag>
+    <s:tag>modern bathroom faucet</s:tag>
+    <s:tag>nickel bathroom faucet</s:tag>
+    <s:tag>Single Handle Bathroom Faucet</s:tag>
+    <s:tag>single hole bathroom faucet</s:tag>
+    <s:tag>woo_import_1</s:tag>
+    <s:variant>
+      <id>https://www.builderzwarehouse.com/products/13132361291</id>
+      <title>Default Title</title>
+      <s:price currency="USD">43.95</s:price>
+      <s:sku>BW-KD-56203-PC</s:sku>
+      <s:grams>1080</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.builderzwarehouse.com/products/1517467959354</id>
+    <published>2017-10-24T22:40:05-07:00</published>
+    <updated>2017-10-24T22:40:05-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.builderzwarehouse.com/products/kappa-modern-single-hole-single-handle-bathroom-faucet-brushed-nickel"/>
+    <title>Single Hole Single Handle Bathroom Faucet (Brushed Nickel)</title>
+    <s:type>Single Hole Bathroom Faucets</s:type>
+    <s:vendor>Home Depot</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2449/7105/products/55806BN_8effa55a-ae50-41e5-b5a9-1de13c0cb58f.jpg?v=1569278744"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Home Depot<br>
+        <strong>Type: </strong>Single Hole Bathroom Faucets<br>
+        <strong>Price: </strong>
+            42.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brass basin faucet</s:tag>
+    <s:tag>nickel bathroom faucet</s:tag>
+    <s:tag>Single Handle Bathroom Faucet</s:tag>
+    <s:tag>single hole</s:tag>
+    <s:tag>single hole bathroom faucet</s:tag>
+    <s:tag>woo_import_1</s:tag>
+    <s:variant>
+      <id>https://www.builderzwarehouse.com/products/1517467959354</id>
+      <title>Default Title</title>
+      <s:price currency="USD">42.95</s:price>
+      <s:sku>BW-KD831-BN</s:sku>
+      <s:grams>1048</s:grams>
+    </s:variant>
+  </entry>
+</feed>

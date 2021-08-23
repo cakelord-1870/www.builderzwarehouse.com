@@ -1,0 +1,658 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.builderzwarehouse.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.builderzwarehouse.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.builderzwarehouse.com/collections/kitchen-general.atom"/>
+  <title>Builderz Warehouse</title>
+  <updated>2019-12-12T10:04:19-07:00</updated>
+  <author>
+    <name>Builderz Warehouse</name>
+  </author>
+  <entry>
+    <id>https://www.builderzwarehouse.com/products/4370821414970</id>
+    <published>2019-12-12T10:04:19-07:00</published>
+    <updated>2019-12-12T10:04:19-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.builderzwarehouse.com/products/undermount-stainless-steel-22-1-2-in-single-bowl-kitchen-sink"/>
+    <title>Undermount Stainless Steel 22-1/2 in. Single Bowl Kitchen Sink</title>
+    <s:type>Kitchen Undermount Sinks</s:type>
+    <s:vendor>Home Depot</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2449/7105/products/8047A-1_4176e288-c113-4db3-adc8-7cc5546f6e46.png?v=1576170261"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Home Depot<br>
+        <strong>Type: </strong>Kitchen Undermount Sinks<br>
+        <strong>Price: </strong>
+            69.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>31 1/2 inch kitchen sink</s:tag>
+    <s:tag>Good</s:tag>
+    <s:tag>Multifamily</s:tag>
+    <s:tag>single basin</s:tag>
+    <s:tag>single bowl sink</s:tag>
+    <s:tag>single hole</s:tag>
+    <s:tag>sink</s:tag>
+    <s:tag>sinks</s:tag>
+    <s:tag>stainless steel sink</s:tag>
+    <s:tag>stamped sink</s:tag>
+    <s:tag>Undermount sink</s:tag>
+    <s:tag>woo_import_1</s:tag>
+    <s:variant>
+      <id>https://www.builderzwarehouse.com/products/4370821414970</id>
+      <title>Default Title</title>
+      <s:price currency="USD">69.95</s:price>
+      <s:sku>BW-KSU-8047B</s:sku>
+      <s:grams>6804</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.builderzwarehouse.com/products/4267228856378</id>
+    <published>2019-11-22T14:16:15-07:00</published>
+    <updated>2019-11-22T14:16:15-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.builderzwarehouse.com/products/undermount-stainless-steel-28-3-8-in-single-bowl-kitchen-sink"/>
+    <title>Undermount Stainless Steel 28-3/8 in. Single Bowl Kitchen Sink</title>
+    <s:type>Kitchen Undermount Sinks</s:type>
+    <s:vendor>Home Depot</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2449/7105/products/8047A-1_27df4200-9f09-423b-b9a3-c41690a22747.png?v=1571258557"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Home Depot<br>
+        <strong>Type: </strong>Kitchen Undermount Sinks<br>
+        <strong>Price: </strong>
+            74.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>31 1/2 inch kitchen sink</s:tag>
+    <s:tag>Good</s:tag>
+    <s:tag>Multifamily</s:tag>
+    <s:tag>single basin</s:tag>
+    <s:tag>single bowl sink</s:tag>
+    <s:tag>single hole</s:tag>
+    <s:tag>sink</s:tag>
+    <s:tag>sinks</s:tag>
+    <s:tag>stainless steel sink</s:tag>
+    <s:tag>stamped sink</s:tag>
+    <s:tag>Undermount sink</s:tag>
+    <s:tag>woo_import_1</s:tag>
+    <s:variant>
+      <id>https://www.builderzwarehouse.com/products/4267228856378</id>
+      <title>Default Title</title>
+      <s:price currency="USD">74.95</s:price>
+      <s:sku>BW-KSU-7247A</s:sku>
+      <s:grams>6804</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.builderzwarehouse.com/products/4295299432506</id>
+    <published>2019-10-22T12:42:56-07:00</published>
+    <updated>2019-10-22T12:42:56-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.builderzwarehouse.com/products/contemporary-pull-down-single-hole-single-handle-kitchen-faucet-matte-black"/>
+    <title>Contemporary Pull-Down Single Hole Single Handle Kitchen Faucet Matte Black</title>
+    <s:type>Pull Down Kitchen Faucets</s:type>
+    <s:vendor>Home Depot</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Home Depot<br>
+        <strong>Type: </strong>Pull Down Kitchen Faucets<br>
+        <strong>Price: </strong>
+            92.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Chrome Faucet</s:tag>
+    <s:tag>chrome kitchen faucet</s:tag>
+    <s:tag>faucet with chrome finish</s:tag>
+    <s:tag>kitchen faucet</s:tag>
+    <s:tag>Pull-down faucet</s:tag>
+    <s:tag>single handle kitchen faucet</s:tag>
+    <s:tag>Single Hole Faucet</s:tag>
+    <s:tag>woo_import_1</s:tag>
+    <s:variant>
+      <id>https://www.builderzwarehouse.com/products/4295299432506</id>
+      <title>Default Title</title>
+      <s:price currency="USD">92.95</s:price>
+      <s:sku>BW-DS-8688B</s:sku>
+      <s:grams>3502</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.builderzwarehouse.com/products/2362508476474</id>
+    <published>2019-09-23T15:54:06-07:00</published>
+    <updated>2019-09-23T15:54:06-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.builderzwarehouse.com/products/modern-pull-down-single-hole-single-handle-kitchen-faucet-brushed-nickel-1"/>
+    <title>Modern Pull-Down Single Hole Single Handle Kitchen Faucet (Brushed Nickel) A9402</title>
+    <s:type>Pull Down Kitchen Faucets</s:type>
+    <s:vendor>Home Depot</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2449/7105/products/A9402-F80027.png?v=1593711722"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Home Depot<br>
+        <strong>Type: </strong>Pull Down Kitchen Faucets<br>
+        <strong>Price: </strong>
+            69.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This sleek, modern, single-handle pull-down kitchen faucet has a 24 in. flexible stainless steel hose that comes free with a gentle tug. Its brass body, zinc handle, and ceramic cartridge will ensure you get a long-lasting product that gives you the most for your money. The water pressure it adjustable from 0.5 to 10 bar (7.25 to 145 psi).</p>
+<ul>
+<li>Modern Vessel Deck Mounted Brass Bathroom Faucet Tap</li>
+<li>Waterfall Style Spout</li>
+<li>Brushed Nickel Finish</li>
+<li>Single Hole Installation</li>
+<li>Single Handle</li>
+<li>Height<b>: </b>12.9 inch</li>
+<li>Brass body and Zinc Handle</li>
+<li>Ceramic Cartridge, 500,000 Life Cycle Test</li>
+<li>Stainless Steel Flexible Hose</li>
+<li>Certifications; ISO9001:2008, ISO14001, cUPC, NSF, AB1953, WaterSense</li>
+</ul>
+<!-- split --></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>faucet with nickel finish</s:tag>
+    <s:tag>Good</s:tag>
+    <s:tag>kitchen faucet</s:tag>
+    <s:tag>Multifamily</s:tag>
+    <s:tag>Nickel Faucet</s:tag>
+    <s:tag>nickel kitchen faucet</s:tag>
+    <s:tag>Pull-down faucet</s:tag>
+    <s:tag>single handle kitchen faucet</s:tag>
+    <s:tag>Single Hole Faucet</s:tag>
+    <s:tag>woo_import_1</s:tag>
+    <s:variant>
+      <id>https://www.builderzwarehouse.com/products/2362508476474</id>
+      <title>Default Title</title>
+      <s:price currency="USD">69.95</s:price>
+      <s:sku>BW-KFPD-F80027-BN</s:sku>
+      <s:grams>2980</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.builderzwarehouse.com/products/2491285209146</id>
+    <published>2019-09-19T13:55:03-07:00</published>
+    <updated>2019-09-19T13:55:03-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.builderzwarehouse.com/products/modern-pull-down-single-hole-single-handle-kitchen-faucet-in-matte-black-brushed-nickel"/>
+    <title>Modern Pull-Down Single Hole Single Handle Kitchen Faucet in Matte Black &amp; Brushed Nickel.</title>
+    <s:type>Pull Down Kitchen Faucets</s:type>
+    <s:vendor>Home Depot</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2449/7105/products/BW-KFPD-HG-7103_1024x1024_14db0e37-5db6-4334-baa0-9f9d5a118d08.jpg?v=1569279420"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Home Depot<br>
+        <strong>Type: </strong>Pull Down Kitchen Faucets<br>
+        <strong>Price: </strong>
+            74.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This sleek, modern, single-handle pull-down kitchen faucet has a flexible matte black hose that comes free with a gentle tug. Its brass body, zinc handle, and ceramic cartridge will ensure you get a long-lasting product that gives you the most for your money. The water pressure it adjustable from 0.5 to 10 bar (7.25 to 145 psi).</p>
+<ul>
+<li>Modern Deck Mounted Brass Bathroom Faucet Tap</li>
+<li>Matte Black &amp; Brushed Nickel</li>
+<li>Single Hole Installation</li>
+<li>Single Handle</li>
+<li>Height<b>: </b>12.9 inch</li>
+<li>Brass body and Zinc Handle</li>
+<li>Ceramic Cartridge, 500,000 Life Cycle Test</li>
+<li>Matte Black Flexible Hose</li>
+<li>Certifications; ISO9001:2008, ISO14001, cUPC, NSF, AB1953, WaterSense</li>
+</ul>
+<!-- split -->
+<table class="shop_attributes" style="width: 538.497px;">
+<tbody>
+<tr>
+<th style="width: 310px;">Weight</th>
+<td class="product_weight" style="width: 216.497px;">4.06 lbs</td>
+</tr>
+<tr>
+<th style="width: 310px;">Dimensions17.7165</th>
+<td class="product_dimensions" style="width: 216.497px;"> 17.71in x 15 x 1.89 in</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Coming Soon</s:tag>
+    <s:tag>faucet with nickel finish</s:tag>
+    <s:tag>kitchen faucet</s:tag>
+    <s:tag>Nickel Faucet</s:tag>
+    <s:tag>nickel kitchen faucet</s:tag>
+    <s:tag>Pull-down faucet</s:tag>
+    <s:tag>single handle kitchen faucet</s:tag>
+    <s:tag>Single Hole Faucet</s:tag>
+    <s:tag>Unavailable</s:tag>
+    <s:tag>woo_import_1</s:tag>
+    <s:variant>
+      <id>https://www.builderzwarehouse.com/products/2491285209146</id>
+      <title>Default Title</title>
+      <s:price currency="USD">74.95</s:price>
+      <s:sku>BW-KFPD-HG-7103BN</s:sku>
+      <s:grams>2980</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.builderzwarehouse.com/products/2491195162682</id>
+    <published>2019-09-19T13:53:48-07:00</published>
+    <updated>2019-09-19T13:53:48-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.builderzwarehouse.com/products/modern-pull-down-single-hole-single-handle-kitchen-faucet-in-matte-black-chrome"/>
+    <title>Modern Pull-Down Single Hole Single Handle Kitchen Faucet in Matte Black &amp; Chrome</title>
+    <s:type>Pull Down Kitchen Faucets</s:type>
+    <s:vendor>Home Depot</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2449/7105/products/BW-KFPD-HG-7103.jpg?v=1569279414"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Home Depot<br>
+        <strong>Type: </strong>Pull Down Kitchen Faucets<br>
+        <strong>Price: </strong>
+            69.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This sleek, modern, single-handle pull-down kitchen faucet has a flexible matte black hose that comes free with a gentle tug. Its brass body, zinc handle, and ceramic cartridge will ensure you get a long-lasting product that gives you the most for your money. The water pressure it adjustable from 0.5 to 10 bar (7.25 to 145 psi).</p>
+<ul>
+<li>Modern Deck Mounted Brass Bathroom Faucet Tap</li>
+<li>Matte Black &amp; Chrome Finish</li>
+<li>Single Hole Installation</li>
+<li>Single Handle</li>
+<li>Height<b>: </b>12.9 inch</li>
+<li>Brass body and Zinc Handle</li>
+<li>Ceramic Cartridge, 500,000 Life Cycle Test</li>
+<li>Matte Black Flexible Hose</li>
+<li>Certifications; ISO9001:2008, ISO14001, cUPC, NSF, AB1953, WaterSense</li>
+</ul>
+<!-- split -->
+<table class="shop_attributes" style="width: 538.497px;">
+<tbody>
+<tr>
+<th style="width: 310px;">Weight</th>
+<td class="product_weight" style="width: 216.497px;">4.06 lbs</td>
+</tr>
+<tr>
+<th style="width: 310px;">Dimensions17.7165</th>
+<td class="product_dimensions" style="width: 216.497px;"> 17.71in x 15 x 1.89 in</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Coming Soon</s:tag>
+    <s:tag>faucet with nickel finish</s:tag>
+    <s:tag>kitchen faucet</s:tag>
+    <s:tag>Nickel Faucet</s:tag>
+    <s:tag>nickel kitchen faucet</s:tag>
+    <s:tag>Pull-down faucet</s:tag>
+    <s:tag>single handle kitchen faucet</s:tag>
+    <s:tag>Single Hole Faucet</s:tag>
+    <s:tag>Unavailable</s:tag>
+    <s:tag>woo_import_1</s:tag>
+    <s:variant>
+      <id>https://www.builderzwarehouse.com/products/2491195162682</id>
+      <title>Default Title</title>
+      <s:price currency="USD">69.95</s:price>
+      <s:sku>BW-KFPD-HG-7103</s:sku>
+      <s:grams>2980</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.builderzwarehouse.com/products/13132373131</id>
+    <published>2017-10-24T22:40:53-07:00</published>
+    <updated>2017-10-24T22:40:53-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.builderzwarehouse.com/products/undermount-stainless-steel-32-in-double-bowl-60-40-kitchen-sink"/>
+    <title>Undermount Stainless Steel 32 in. Double Bowl 60/40 Kitchen Sink</title>
+    <s:type>Kitchen Undermount Sinks</s:type>
+    <s:vendor>Home Depot</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2449/7105/products/8252A-1.png?v=1569278400"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Home Depot<br>
+        <strong>Type: </strong>Kitchen Undermount Sinks<br>
+        <strong>Price: </strong>
+            76.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>32 inch kitchen sink</s:tag>
+    <s:tag>60/40 kitchen sink</s:tag>
+    <s:tag>double bowl kitchen sink</s:tag>
+    <s:tag>double bowl sink</s:tag>
+    <s:tag>stainless steel 60/40 sink</s:tag>
+    <s:tag>stainless steel sink</s:tag>
+    <s:tag>woo_import_1</s:tag>
+    <s:variant>
+      <id>https://www.builderzwarehouse.com/products/13132373131</id>
+      <title>Default Title</title>
+      <s:price currency="USD">76.95</s:price>
+      <s:sku>BW-KSU-8252AL</s:sku>
+      <s:grams>6804</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.builderzwarehouse.com/products/13132372491</id>
+    <published>2017-10-24T22:40:51-07:00</published>
+    <updated>2017-10-24T22:40:51-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.builderzwarehouse.com/products/undermount-stainless-steel-31-1-2-in-single-bowl-kitchen-sink"/>
+    <title>Undermount Stainless Steel 31-1/2 in. Single Bowl Kitchen Sink</title>
+    <s:type>Kitchen Undermount Sinks</s:type>
+    <s:vendor>Home Depot</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2449/7105/products/8047A-1.png?v=1569278396"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Home Depot<br>
+        <strong>Type: </strong>Kitchen Undermount Sinks<br>
+        <strong>Price: </strong>
+            76.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>31 1/2 inch kitchen sink</s:tag>
+    <s:tag>Good</s:tag>
+    <s:tag>Multifamily</s:tag>
+    <s:tag>single basin</s:tag>
+    <s:tag>single bowl sink</s:tag>
+    <s:tag>single hole</s:tag>
+    <s:tag>sink</s:tag>
+    <s:tag>sinks</s:tag>
+    <s:tag>stainless steel sink</s:tag>
+    <s:tag>stamped sink</s:tag>
+    <s:tag>Undermount sink</s:tag>
+    <s:tag>woo_import_1</s:tag>
+    <s:variant>
+      <id>https://www.builderzwarehouse.com/products/13132372491</id>
+      <title>Default Title</title>
+      <s:price currency="USD">76.95</s:price>
+      <s:sku>BW-KSU-8047A</s:sku>
+      <s:grams>6804</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.builderzwarehouse.com/products/13132372043</id>
+    <published>2017-10-24T22:40:50-07:00</published>
+    <updated>2017-10-24T22:40:50-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.builderzwarehouse.com/products/handmade-undermount-stainless-steel-32-in-double-bowl-50-50-kitchen-sink"/>
+    <title>Handmade Undermount Stainless Steel 32 in. Double Bowl 50/50 Kitchen Sink</title>
+    <s:type>Kitchen Undermount Sinks</s:type>
+    <s:vendor>Home Depot</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2449/7105/products/321955.png?v=1569278390"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Home Depot<br>
+        <strong>Type: </strong>Kitchen Undermount Sinks<br>
+        <strong>Price: </strong>
+            175.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>32 inch kitchen sink</s:tag>
+    <s:tag>50/50 kitchen sink</s:tag>
+    <s:tag>double bowl kitchen sink</s:tag>
+    <s:tag>double bowl sink</s:tag>
+    <s:tag>handmade sink</s:tag>
+    <s:tag>stainless steel 50/50 sink</s:tag>
+    <s:tag>stainless steel sink</s:tag>
+    <s:tag>woo_import_1</s:tag>
+    <s:variant>
+      <id>https://www.builderzwarehouse.com/products/13132372043</id>
+      <title>Default Title</title>
+      <s:price currency="USD">175.95</s:price>
+      <s:sku>BW-KSU-S321955</s:sku>
+      <s:grams>14515</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.builderzwarehouse.com/products/13132371659</id>
+    <published>2017-10-24T22:40:48-07:00</published>
+    <updated>2017-10-24T22:40:48-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.builderzwarehouse.com/products/handmade-undermount-stainless-steel-32-in-single-bowl-kitchen-sink"/>
+    <title>Handmade Undermount Stainless Steel 32 in. Single Bowl Kitchen Sink</title>
+    <s:type>Kitchen Undermount Sinks</s:type>
+    <s:vendor>Home Depot</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2449/7105/products/321910-1.png?v=1569278385"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Home Depot<br>
+        <strong>Type: </strong>Kitchen Undermount Sinks<br>
+        <strong>Price: </strong>
+            170.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>32 inch kitchen sink</s:tag>
+    <s:tag>single bowl kitchen sink</s:tag>
+    <s:tag>singlle bowl sink</s:tag>
+    <s:tag>stainless steel</s:tag>
+    <s:tag>stainless steel sink</s:tag>
+    <s:tag>woo_import_1</s:tag>
+    <s:variant>
+      <id>https://www.builderzwarehouse.com/products/13132371659</id>
+      <title>Default Title</title>
+      <s:price currency="USD">170.95</s:price>
+      <s:sku>BW-KSU-S321910</s:sku>
+      <s:grams>12247</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.builderzwarehouse.com/products/542768758842</id>
+    <published>2017-10-24T22:40:43-07:00</published>
+    <updated>2017-10-24T22:40:43-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.builderzwarehouse.com/products/elite-pull-down-single-hole-single-handle-kitchen-faucet"/>
+    <title>Elite Pull-Down Single Hole Single Handle Kitchen Faucet</title>
+    <s:type>Pull Down Kitchen Faucets</s:type>
+    <s:vendor>Home Depot</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2449/7105/products/BW-6011BN_grande_1024x1024_c3df0063-e9b4-4605-ab1f-81291de37ca0.jpg?v=1569278570"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Home Depot<br>
+        <strong>Type: </strong>Pull Down Kitchen Faucets<br>
+        <strong>Price: </strong>
+            92.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Chrome Faucet</s:tag>
+    <s:tag>chrome kitchen faucet</s:tag>
+    <s:tag>faucet with chrome finish</s:tag>
+    <s:tag>kitchen faucet</s:tag>
+    <s:tag>Pull-down faucet</s:tag>
+    <s:tag>single handle kitchen faucet</s:tag>
+    <s:tag>Single Hole Faucet</s:tag>
+    <s:tag>woo_import_1</s:tag>
+    <s:variant>
+      <id>https://www.builderzwarehouse.com/products/542768758842</id>
+      <title>Default Title</title>
+      <s:price currency="USD">92.95</s:price>
+      <s:sku>BW-TLSB-6011-BN</s:sku>
+      <s:grams>3502</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.builderzwarehouse.com/products/13132369291</id>
+    <published>2017-10-24T22:40:43-07:00</published>
+    <updated>2017-10-24T22:40:43-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.builderzwarehouse.com/products/contemporary-pull-down-single-hole-single-handle-kitchen-faucet"/>
+    <title>Contemporary Pull-Down Single Hole Single Handle Kitchen Faucet</title>
+    <s:type>Pull Down Kitchen Faucets</s:type>
+    <s:vendor>Home Depot</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2449/7105/products/A9701-2_grande_1024x1024_a5a1005f-6ad4-4ae6-985d-1c2a70c2ece8.jpg?v=1569278369"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Home Depot<br>
+        <strong>Type: </strong>Pull Down Kitchen Faucets<br>
+        <strong>Price: </strong>
+            92.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Chrome Faucet</s:tag>
+    <s:tag>chrome kitchen faucet</s:tag>
+    <s:tag>faucet with chrome finish</s:tag>
+    <s:tag>kitchen faucet</s:tag>
+    <s:tag>Pull-down faucet</s:tag>
+    <s:tag>single handle kitchen faucet</s:tag>
+    <s:tag>Single Hole Faucet</s:tag>
+    <s:tag>woo_import_1</s:tag>
+    <s:variant>
+      <id>https://www.builderzwarehouse.com/products/13132369291</id>
+      <title>Default Title</title>
+      <s:price currency="USD">92.95</s:price>
+      <s:sku>BW-KFPD-A9701</s:sku>
+      <s:grams>3502</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.builderzwarehouse.com/products/13085711499</id>
+    <published>2017-10-22T20:57:08-07:00</published>
+    <updated>2017-10-22T20:57:08-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.builderzwarehouse.com/products/undermount-stainless-steel-32-1-4-in-double-bowl-50-50-kitchen-sink"/>
+    <title>Undermount Stainless Steel 32-1/4 in. Double Bowl 50/50 Kitchen Sink</title>
+    <s:type>Kitchen Undermount Sinks</s:type>
+    <s:vendor>Home Depot</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2449/7105/products/8247A-1.png?v=1569278232"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Home Depot<br>
+        <strong>Type: </strong>Kitchen Undermount Sinks<br>
+        <strong>Price: </strong>
+            76.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>32 inch kitchen sink</s:tag>
+    <s:tag>50/50 kitchen sink</s:tag>
+    <s:tag>double bowl kitchen sink</s:tag>
+    <s:tag>double bowl sink</s:tag>
+    <s:tag>stainless steel 50/50 sink</s:tag>
+    <s:tag>stainless steel sink</s:tag>
+    <s:tag>woo_import_1</s:tag>
+    <s:variant>
+      <id>https://www.builderzwarehouse.com/products/13085711499</id>
+      <title>Default Title</title>
+      <s:price currency="USD">76.95</s:price>
+      <s:sku>BW-KSU-8247A</s:sku>
+      <s:grams>6804</s:grams>
+    </s:variant>
+  </entry>
+</feed>

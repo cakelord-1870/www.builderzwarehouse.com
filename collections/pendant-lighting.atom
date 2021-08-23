@@ -1,0 +1,574 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.builderzwarehouse.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.builderzwarehouse.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.builderzwarehouse.com/collections/pendant-lighting.atom"/>
+  <title>Builderz Warehouse</title>
+  <updated>2019-03-26T11:42:28-07:00</updated>
+  <author>
+    <name>Builderz Warehouse</name>
+  </author>
+  <entry>
+    <id>https://www.builderzwarehouse.com/products/2352488316986</id>
+    <published>2019-03-26T11:42:28-07:00</published>
+    <updated>2019-03-26T11:42:28-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.builderzwarehouse.com/products/sputnik-chandelier-in-matte-black"/>
+    <title>Sputnik 6-light Chandelier (Matte Black)</title>
+    <s:type>Pendant Lighting</s:type>
+    <s:vendor>Houzz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Houzz<br>
+        <strong>Type: </strong>Pendant Lighting<br>
+        <strong>Price: </strong>
+            87.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Uses 12 E26 A19 bulbs, sold seperately. </li>
+<li>Dimensions: W 33.5" x H 33.5"</li>
+<li>Matte black finish</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.builderzwarehouse.com/products/2352488316986</id>
+      <title>Default Title</title>
+      <s:price currency="USD">87.95</s:price>
+      <s:sku>BW-LTP-8656-12-BN</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.builderzwarehouse.com/products/2224427696186</id>
+    <published>2017-10-24T22:42:36-07:00</published>
+    <updated>2017-10-24T22:42:36-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.builderzwarehouse.com/products/single-modern-industrial-pendant-light-matte-black"/>
+    <title>Single Modern Industrial Pendant Light (Matte Black)</title>
+    <s:type>Pendant Lighting</s:type>
+    <s:vendor>Lighting Direct</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2449/7105/products/BW-LTPDD-SP74911-MB.png?v=1569278839"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lighting Direct<br>
+        <strong>Type: </strong>Pendant Lighting<br>
+        <strong>Price: </strong>
+            84.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ceiling lights</s:tag>
+    <s:tag>pendant light</s:tag>
+    <s:tag>pendant lights</s:tag>
+    <s:tag>woo_import_1</s:tag>
+    <s:variant>
+      <id>https://www.builderzwarehouse.com/products/2224427696186</id>
+      <title>Default Title</title>
+      <s:price currency="USD">84.95</s:price>
+      <s:sku>BW-LTPDD-SP7491-MB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.builderzwarehouse.com/products/1364564213818</id>
+    <published>2017-10-24T22:42:36-07:00</published>
+    <updated>2017-10-24T22:42:36-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.builderzwarehouse.com/products/swiveling-pendant-light-brushed-nickel-or-black-w-glass"/>
+    <title>Single Modern Industrial Pendant Light (Brushed Nickel)</title>
+    <s:type>Pendant Lighting</s:type>
+    <s:vendor>Lighting Direct</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2449/7105/products/BW-SP74911-BN_f9c0a72c-588a-44eb-bf3f-6e38ef4cf71f.jpg?v=1569277710"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lighting Direct<br>
+        <strong>Type: </strong>Pendant Lighting<br>
+        <strong>Price: </strong>
+            84.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ceiling lights</s:tag>
+    <s:tag>pendant light</s:tag>
+    <s:tag>pendant lights</s:tag>
+    <s:tag>woo_import_1</s:tag>
+    <s:variant>
+      <id>https://www.builderzwarehouse.com/products/1364564213818</id>
+      <title>Default Title</title>
+      <s:price currency="USD">84.95</s:price>
+      <s:sku>BW-LTPDD-SP74911-BN</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.builderzwarehouse.com/products/2357870854202</id>
+    <published>2017-10-24T22:40:59-07:00</published>
+    <updated>2017-10-24T22:40:59-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.builderzwarehouse.com/products/single-pendant-light-fabric-shade-w-matte-black-cage"/>
+    <title>Single Pendant Light (Fabric Shade w/ Matte Black Cage)</title>
+    <s:type>Pendant Lighting</s:type>
+    <s:vendor>Build.com</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2449/7105/products/BW-LTP-9503-1-MB.jpg?v=1569277960"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Build.com<br>
+        <strong>Type: </strong>Pendant Lighting<br>
+        <strong>Price: </strong>
+            65.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p id="pdKeySentence">Eye-catching and decorative, this charming contemporary single pendant light in iron with matte black cage over a fabric shade will be an exceptional centerpiece to build around in any room. Solid base with adjustable rods. 6.25" W X 12.25-36" H (*Requires lightbulb.)</p>
+<!-- split --></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ceiling lights</s:tag>
+    <s:tag>pendant light</s:tag>
+    <s:tag>pendant lights</s:tag>
+    <s:tag>woo_import_1</s:tag>
+    <s:variant>
+      <id>https://www.builderzwarehouse.com/products/2357870854202</id>
+      <title>Default Title</title>
+      <s:price currency="USD">65.95</s:price>
+      <s:sku>BW-LTP-9503-1-MB</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.builderzwarehouse.com/products/2357859909690</id>
+    <published>2017-10-24T22:40:59-07:00</published>
+    <updated>2017-10-24T22:40:59-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.builderzwarehouse.com/products/quadruple-light-drum-pendant-light-fabric-shade-w-matte-black-cage"/>
+    <title>Quadruple Light Drum Pendant Light (Fabric Shade w/ Matte Black Cage)</title>
+    <s:type>Pendant Lighting</s:type>
+    <s:vendor>Houzz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2449/7105/products/BW-LTP-9505-4-MB.jpg?v=1569277957"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Houzz<br>
+        <strong>Type: </strong>Pendant Lighting<br>
+        <strong>Price: </strong>
+            107.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p id="pdKeySentence">Eye-catching and decorative, this charming contemporary triple light chandelier in iron with matte black cage over a fabric shade will be an exceptional centerpiece to build around in any room. Solid base with adjustable rods. 20" W X 12.25-36" H (*Requires four lightbulbs.)</p>
+<!-- split --></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ceiling lights</s:tag>
+    <s:tag>pendant light</s:tag>
+    <s:tag>pendant lights</s:tag>
+    <s:tag>woo_import_1</s:tag>
+    <s:variant>
+      <id>https://www.builderzwarehouse.com/products/2357859909690</id>
+      <title>Default Title</title>
+      <s:price currency="USD">107.95</s:price>
+      <s:sku>BW-LTP-9505-4-MB</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.builderzwarehouse.com/products/1470427430970</id>
+    <published>2017-10-24T22:40:59-07:00</published>
+    <updated>2017-10-24T22:40:59-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.builderzwarehouse.com/products/seville-chandelier-pendant-light-satin-nickel-w-white-linen-glass"/>
+    <title>5 Light Chandelier (Brushed Nickel w/ White Linen Glass Shades)</title>
+    <s:type>Pendant Lighting</s:type>
+    <s:vendor>Progress Lighting</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2449/7105/products/BW-MXP160733-BN_f46ce6ca-e745-4f05-83b8-c121924197ed.jpg?v=1569278715"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Progress Lighting<br>
+        <strong>Type: </strong>Pendant Lighting<br>
+        <strong>Price: </strong>
+            99.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ceiling lights</s:tag>
+    <s:tag>chandelier</s:tag>
+    <s:tag>pendant light</s:tag>
+    <s:tag>pendant lights</s:tag>
+    <s:tag>woo_import_1</s:tag>
+    <s:variant>
+      <id>https://www.builderzwarehouse.com/products/1470427430970</id>
+      <title>Default Title</title>
+      <s:price currency="USD">99.95</s:price>
+      <s:sku>BW-LTP-MXP160733-BN</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.builderzwarehouse.com/products/1470216470586</id>
+    <published>2017-10-24T22:40:59-07:00</published>
+    <updated>2017-10-24T22:40:59-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.builderzwarehouse.com/products/mosaic-single-pendant-light-chrome-w-ivory-fabric-shade"/>
+    <title>Single Bohemian Pendant Light (Ivory Fabric Shade w/ Polished Chrome Cage)</title>
+    <s:type>Pendant Lighting</s:type>
+    <s:vendor>Lamps Plus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2449/7105/products/BW-MXP160720-PC_d8f38873-012f-40c5-b1d1-c503ac266503.jpg?v=1569278712"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lamps Plus<br>
+        <strong>Type: </strong>Pendant Lighting<br>
+        <strong>Price: </strong>
+            70.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ceiling lights</s:tag>
+    <s:tag>pendant light</s:tag>
+    <s:tag>pendant lights</s:tag>
+    <s:tag>woo_import_1</s:tag>
+    <s:variant>
+      <id>https://www.builderzwarehouse.com/products/1470216470586</id>
+      <title>Default Title</title>
+      <s:price currency="USD">70.95</s:price>
+      <s:sku>BW-LTPDD-MXP160720</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.builderzwarehouse.com/products/1469986078778</id>
+    <published>2017-10-24T22:40:59-07:00</published>
+    <updated>2017-10-24T22:40:59-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.builderzwarehouse.com/products/hollywood-single-pendant-light-brushed-nickel-w-crystal-glass"/>
+    <title>Single Barnhouse Pendant Light  (Brushed Nickel Shade w/ Crystal Glass)</title>
+    <s:type>Pendant Lighting</s:type>
+    <s:vendor>Lighting Direct</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2449/7105/products/BW-MXP5050-BN_a83727e8-7bb9-44dd-adc2-972b9edca200.jpg?v=1569278710"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lighting Direct<br>
+        <strong>Type: </strong>Pendant Lighting<br>
+        <strong>Price: </strong>
+            39.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ceiling lights</s:tag>
+    <s:tag>pendant light</s:tag>
+    <s:tag>pendant lights</s:tag>
+    <s:tag>woo_import_1</s:tag>
+    <s:variant>
+      <id>https://www.builderzwarehouse.com/products/1469986078778</id>
+      <title>Default Title</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>BW-LTPDD-MXP5050-BN</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.builderzwarehouse.com/products/1469784981562</id>
+    <published>2017-10-24T22:40:59-07:00</published>
+    <updated>2017-10-24T22:40:59-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.builderzwarehouse.com/products/industrial-single-pendant-light-brushed-nickel-w-clear-seeded-glass"/>
+    <title>Single Pendant Industrial Light  (Brushed Nickel  w/ Clear Seeded Glass)</title>
+    <s:type>Pendant Lighting</s:type>
+    <s:vendor>Lighting Direct</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2449/7105/products/BW-MXP1287-BN_dbe7e3d3-e8d9-449d-8774-7fdf9dbc54d5.jpg?v=1569278707"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lighting Direct<br>
+        <strong>Type: </strong>Pendant Lighting<br>
+        <strong>Price: </strong>
+            34.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ceiling lights</s:tag>
+    <s:tag>pendant light</s:tag>
+    <s:tag>pendant lights</s:tag>
+    <s:tag>woo_import_1</s:tag>
+    <s:variant>
+      <id>https://www.builderzwarehouse.com/products/1469784981562</id>
+      <title>Default Title</title>
+      <s:price currency="USD">34.95</s:price>
+      <s:sku>BW-LTPDD-MXP1287</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.builderzwarehouse.com/products/1469718790202</id>
+    <published>2017-10-24T22:40:59-07:00</published>
+    <updated>2017-10-24T22:40:59-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.builderzwarehouse.com/products/madrid-single-pendant-light-polished-chrome-w-clear-double-prismatic-glass-1"/>
+    <title>Single Pendant Light  (Polished Chrome w/ Prismatic Glass Bell Shades)</title>
+    <s:type>Pendant Lighting</s:type>
+    <s:vendor>Houzz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2449/7105/products/BW-MXP160714-PC_ad786a3d-2533-4c19-9c4f-38a5556ccf77.jpg?v=1569279396"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Houzz<br>
+        <strong>Type: </strong>Pendant Lighting<br>
+        <strong>Price: </strong>
+            42.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ceiling lights</s:tag>
+    <s:tag>pendant light</s:tag>
+    <s:tag>pendant lights</s:tag>
+    <s:tag>woo_import_1</s:tag>
+    <s:variant>
+      <id>https://www.builderzwarehouse.com/products/1469718790202</id>
+      <title>Default Title</title>
+      <s:price currency="USD">42.95</s:price>
+      <s:sku>BW-LTPDD-MXP160714</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.builderzwarehouse.com/products/1469647028282</id>
+    <published>2017-10-24T22:40:59-07:00</published>
+    <updated>2017-10-24T22:40:59-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.builderzwarehouse.com/products/seville-single-pendant-light-satin-nickel-w-white-linen-glass"/>
+    <title>Single Pendant Light  (Brushed Nickel w/ White Linen Glass Shade)</title>
+    <s:type>Pendant Lighting</s:type>
+    <s:vendor>Lighting Direct</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2449/7105/products/BW-MXP160712-BN_21ea1d4b-46d3-46a8-a84f-ae72f3bb27e8.jpg?v=1569278701"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lighting Direct<br>
+        <strong>Type: </strong>Pendant Lighting<br>
+        <strong>Price: </strong>
+            30.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ceiling lights</s:tag>
+    <s:tag>pendant light</s:tag>
+    <s:tag>pendant lights</s:tag>
+    <s:tag>woo_import_1</s:tag>
+    <s:variant>
+      <id>https://www.builderzwarehouse.com/products/1469647028282</id>
+      <title>Default Title</title>
+      <s:price currency="USD">30.95</s:price>
+      <s:sku>BW-LTPDD-MXP160712</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.builderzwarehouse.com/products/1469611016250</id>
+    <published>2017-10-24T22:40:59-07:00</published>
+    <updated>2017-10-24T22:40:59-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.builderzwarehouse.com/products/modern-pendant-light-metal-net-w-clear-glass"/>
+    <title>Single Pendant Light  (Black w/ Clear Glass Over Metal Mesh Cage)</title>
+    <s:type>Pendant Lighting</s:type>
+    <s:vendor>Houzz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2449/7105/products/BW-MXP160702-BK_740f2d8d-52f1-473e-8961-88408bd19934.jpg?v=1569278699"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Houzz<br>
+        <strong>Type: </strong>Pendant Lighting<br>
+        <strong>Price: </strong>
+            39.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ceiling lights</s:tag>
+    <s:tag>pendant light</s:tag>
+    <s:tag>pendant lights</s:tag>
+    <s:tag>woo_import_1</s:tag>
+    <s:variant>
+      <id>https://www.builderzwarehouse.com/products/1469611016250</id>
+      <title>Default Title</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>BW-LTPDD-MXP160702</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.builderzwarehouse.com/products/1358887518266</id>
+    <published>2017-10-24T22:40:59-07:00</published>
+    <updated>2017-10-24T22:40:59-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.builderzwarehouse.com/products/contemporary-triple-light-chandelier-satin-nickel-w-fabric"/>
+    <title>Triple Light Drum Pendant Light (Fabric Shade w/ Brushed Nickel Cage)</title>
+    <s:type>Pendant Lighting</s:type>
+    <s:vendor>Lamps Plus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2449/7105/products/BW-SP88363-BN_ef1b6648-1527-44ac-a6c7-3e444fdcdee5.jpg?v=1569278682"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lamps Plus<br>
+        <strong>Type: </strong>Pendant Lighting<br>
+        <strong>Price: </strong>
+            139.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ceiling lights</s:tag>
+    <s:tag>pendant light</s:tag>
+    <s:tag>pendant lights</s:tag>
+    <s:tag>woo_import_1</s:tag>
+    <s:variant>
+      <id>https://www.builderzwarehouse.com/products/1358887518266</id>
+      <title>Default Title</title>
+      <s:price currency="USD">139.95</s:price>
+      <s:sku>BW-LTPDD-SP88363</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.builderzwarehouse.com/products/1358635073594</id>
+    <published>2017-10-24T22:40:59-07:00</published>
+    <updated>2017-10-24T22:40:59-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.builderzwarehouse.com/products/contemporary-single-pendant-light-satin-nickel-w-fabric"/>
+    <title>Single Pendant Light  (Fabric Shade w/ Brushed Nickel Cage)</title>
+    <s:type>Pendant Lighting</s:type>
+    <s:vendor>Lamps Plus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2449/7105/products/BW-SP88361-BN_52d58496-7d47-4b80-a711-0c0b20ff8795.jpg?v=1569278679"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lamps Plus<br>
+        <strong>Type: </strong>Pendant Lighting<br>
+        <strong>Price: </strong>
+            53.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ceiling lights</s:tag>
+    <s:tag>pendant light</s:tag>
+    <s:tag>pendant lights</s:tag>
+    <s:tag>woo_import_1</s:tag>
+    <s:variant>
+      <id>https://www.builderzwarehouse.com/products/1358635073594</id>
+      <title>Default Title</title>
+      <s:price currency="USD">53.95</s:price>
+      <s:sku>BW-LTPDD-SP88361-BN</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.builderzwarehouse.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.builderzwarehouse.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.builderzwarehouse.com/collections/lighting-hardware.atom"/>
+  <title>Builderz Warehouse</title>
+  <updated>2019-12-18T14:04:27-07:00</updated>
+  <author>
+    <name>Builderz Warehouse</name>
+  </author>
+  <entry>
+    <id>https://www.builderzwarehouse.com/products/4373784756282</id>
+    <published>2019-12-18T14:04:27-07:00</published>
+    <updated>2019-12-18T14:04:27-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.builderzwarehouse.com/products/glass-ceiling-light-fixture-in-brushed-nickel"/>
+    <title>Glass Ceiling Light Fixture in Brushed Nickel</title>
+    <s:type>Light Fixture</s:type>
+    <s:vendor>Builderz Warehouse</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2449/7105/products/BW-LTCF-K265113-P00003-BN.jpg?v=1591691417"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Builderz Warehouse<br>
+        <strong>Type: </strong>Light Fixture<br>
+        <strong>Price: </strong>
+            8.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.builderzwarehouse.com/products/4373784756282</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>BW-LTCF-K265113-P00003-BN</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.builderzwarehouse.com/products/2493486530618</id>
+    <published>2019-09-26T16:06:16-07:00</published>
+    <updated>2019-09-26T16:06:16-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.builderzwarehouse.com/products/2-gang-wall-plate-in-white-10-pack"/>
+    <title>2-Gang Wall Plate in White (10-Pack)</title>
+    <s:type>Lighting Hardware</s:type>
+    <s:vendor>Builderz Warehouse</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2449/7105/products/BW-HWE-SR2.jpg?v=1569278171"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Builderz Warehouse<br>
+        <strong>Type: </strong>Lighting Hardware<br>
+        <strong>Price: </strong>
+            14.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.builderzwarehouse.com/products/2493486530618</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.90</s:price>
+      <s:sku>BW-HWE-SR2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.builderzwarehouse.com/products/2493492396090</id>
+    <published>2019-09-23T15:53:49-07:00</published>
+    <updated>2019-09-23T15:53:49-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.builderzwarehouse.com/products/15-amp-3-way-paddle-switch-in-white-10-pack"/>
+    <title>15 Amp 3-Way Paddle Switch in White (10-Pack)</title>
+    <s:type>Lighting Hardware</s:type>
+    <s:vendor>Builderz Warehouse</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2449/7105/products/BW-HWE-SSK-1B.jpg?v=1569279392"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Builderz Warehouse<br>
+        <strong>Type: </strong>Lighting Hardware<br>
+        <strong>Price: </strong>
+            19.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.builderzwarehouse.com/products/2493492396090</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku>BW-HWE-SSK-1B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.builderzwarehouse.com/products/2493490823226</id>
+    <published>2019-09-23T15:53:32-07:00</published>
+    <updated>2019-09-23T15:53:32-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.builderzwarehouse.com/products/15-amp-duplex-outlet-in-white-10-pack"/>
+    <title>15 Amp Duplex Outlet in White (10-Pack)</title>
+    <s:type>Lighting Hardware</s:type>
+    <s:vendor>Builderz Warehouse</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2449/7105/products/BW-HWE-SSRE-1TR.jpg?v=1569279376"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Builderz Warehouse<br>
+        <strong>Type: </strong>Lighting Hardware<br>
+        <strong>Price: </strong>
+            14.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.builderzwarehouse.com/products/2493490823226</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.95</s:price>
+      <s:sku>BW-HWE-SSRE-1TR</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.builderzwarehouse.com/products/2493492002874</id>
+    <published>2019-09-23T15:53:31-07:00</published>
+    <updated>2019-09-23T15:53:31-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.builderzwarehouse.com/products/15-amp-single-pole-paddle-switch-in-white-10-pack"/>
+    <title>15 Amp Single-Pole Paddle Switch in White (10-Pack)</title>
+    <s:type>Lighting Hardware</s:type>
+    <s:vendor>Builderz Warehouse</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2449/7105/products/BW-HWE-SSK-1B_e23dfa55-8546-4939-83ab-1b4c67ad3076.jpg?v=1569279374"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Builderz Warehouse<br>
+        <strong>Type: </strong>Lighting Hardware<br>
+        <strong>Price: </strong>
+            12.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.builderzwarehouse.com/products/2493492002874</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.95</s:price>
+      <s:sku>BW-HWE-SSK-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.builderzwarehouse.com/products/2493487939642</id>
+    <published>2019-09-23T15:53:14-07:00</published>
+    <updated>2019-09-23T15:53:14-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.builderzwarehouse.com/products/2-gang-toggle-wall-plate-in-white-10-pack"/>
+    <title>2-Gang Toggle Wall Plate in White (10-Pack)</title>
+    <s:type>Lighting Hardware</s:type>
+    <s:vendor>Builderz Warehouse</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2449/7105/products/BW-HWE-ST-2.jpg?v=1569279358"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Builderz Warehouse<br>
+        <strong>Type: </strong>Lighting Hardware<br>
+        <strong>Price: </strong>
+            6.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.builderzwarehouse.com/products/2493487939642</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.95</s:price>
+      <s:sku>BW-HWE-ST-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.builderzwarehouse.com/products/2493493018682</id>
+    <published>2019-09-23T15:53:12-07:00</published>
+    <updated>2019-09-23T15:53:12-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.builderzwarehouse.com/products/15-amp-single-pole-toggle-switch-in-white-10-pack"/>
+    <title>15 Amp Single-Pole Toggle Switch in White (10-Pack)</title>
+    <s:type>Lighting Hardware</s:type>
+    <s:vendor>Builderz Warehouse</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2449/7105/products/BW-HWE-SSK-2.jpg?v=1569279356"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Builderz Warehouse<br>
+        <strong>Type: </strong>Lighting Hardware<br>
+        <strong>Price: </strong>
+            6.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.builderzwarehouse.com/products/2493493018682</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.75</s:price>
+      <s:sku>BW-HWE-SSK-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.builderzwarehouse.com/products/2493487775802</id>
+    <published>2019-09-23T15:53:11-07:00</published>
+    <updated>2019-09-23T15:53:11-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.builderzwarehouse.com/products/1-gang-toggle-wall-plate-in-white-10-pack"/>
+    <title>1-Gang Toggle Wall Plate in White (10-Pack)</title>
+    <s:type>Lighting Hardware</s:type>
+    <s:vendor>Builderz Warehouse</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2449/7105/products/BW-HWE-ST-1.jpg?v=1569279354"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Builderz Warehouse<br>
+        <strong>Type: </strong>Lighting Hardware<br>
+        <strong>Price: </strong>
+            25.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.builderzwarehouse.com/products/2493487775802</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.50</s:price>
+      <s:sku>BW-HWE-ST-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.builderzwarehouse.com/products/1357517586490</id>
+    <published>2017-10-24T22:40:59-07:00</published>
+    <updated>2017-10-24T22:40:59-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.builderzwarehouse.com/products/edison-40w-quad-loop-bulbs"/>
+    <title>Edison 40W Quad Loop Bulbs</title>
+    <s:type>Lightbulbs</s:type>
+    <s:vendor>Amazon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2449/7105/products/BW-E26A19_e84bc4b3-1195-40e3-97ed-cd9d80a812f8.jpg?v=1569278677"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Amazon<br>
+        <strong>Type: </strong>Lightbulbs<br>
+        <strong>Price: </strong>
+            3.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>modern vanity light</s:tag>
+    <s:tag>modern vanity lighting</s:tag>
+    <s:tag>woo_import_1</s:tag>
+    <s:variant>
+      <id>https://www.builderzwarehouse.com/products/1357517586490</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.95</s:price>
+      <s:sku>BW-LTHB-E26A19</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+  </entry>
+</feed>
